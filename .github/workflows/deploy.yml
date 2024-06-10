@@ -17,7 +17,7 @@ jobs:
 
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://sgp07.github.io/slides/
 
     steps:
       - uses: actions/checkout@v4
@@ -30,7 +30,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /${{github.event.repository.name}}/
+        run: npm run build -- --base /slides/
 
       - uses: actions/configure-pages@v4
 
