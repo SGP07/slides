@@ -2,65 +2,63 @@
 theme: Default
 ---
 
-# The Power of Meditation
+# The History of iPhone, Fun Facts, and Fails
 
-Breaking Free from Stress and Anxiety
+The Revolutionary Smartphone
 
 ---
 
 # Agenda
 
-* Understanding Meditation
-* Benefits of Meditation
-* Getting Started with Meditation
-* Overcoming Common Obstacles
+* The Birth of iPhone
+* iPhone Evolution
+* Fun Facts
+* iPhone Fails
 * Conclusion
 
 ---
 
-# Understanding Meditation
+# The Birth of iPhone
 
-Meditation is a practice of training your mind to focus and relax
-Being present in the moment, letting go of worries and doubts
+First iPhone Released in 2007
 
----
-
-# Benefits of Meditation
-
-Reduces stress and anxiety
-Improves sleep quality
-Boosts mood and energy levels
-Enhances focus and concentration
-Strengthens immune system
+* Steve Jobs unveiled iPhone at Macworld
+* "An iPod, a phone, and an internet communications device"
 
 ---
 
-# Getting Started with Meditation
+# iPhone Evolution
 
-Find a quiet and comfortable spot
-Sit comfortably with eyes closed
-Focus on your breath, a mantra, or a sensation
-Start with 5-10 minutes a day, increasing gradually
+* 2008: 3G, App Store, and iOS 2.0
+* 2009: 3GS, Video Recording, and iOS 3.0
+* 2010: iPhone 4, FaceTime, and iOS 4.0
+* ...and so on...
 
 ---
 
-# Overcoming Common Obstacles
+# Fun Facts
 
-Dealing with a wandering mind
-Overcoming physical discomfort
-Making meditation a habit
-Staying motivated and consistent
+* The original iPhone was codenamed "Project Purple"
+* The iPhone was originally going to be called "Apple Telepod"
+* The iPhone has been available in space since 2013!
+
+---
+
+# iPhone Fails
+
+* Antennagate (2010): iPhone 4's troubled signal reception
+* iOS 6 Maps (2012): Apple's mapping flop
+* Bendgate (2014): iPhone 6's bending controversy
 
 ---
 
 # Conclusion
 
-Meditation is a journey, not a destination
-Start small, be consistent, and be patient
-Take the first step towards a more mindful and peaceful you
+From humble beginnings to a game-changer in the tech world
+iPhone's journey has been full of innovation, fun, and... some fails
 
 ---
 
 # Q&A
 
-Do you have any questions about getting started with meditation?
+Any questions about the iPhone's history, fun facts, or fails?
