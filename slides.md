@@ -1,3 +1,7 @@
+---
+theme: bricks
+---
+
 # The Thrill of Motocross
 
 Motocross: a thrilling sport that combines speed, agility, and skill.
