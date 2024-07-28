@@ -1,89 +1,74 @@
 ---
-theme: default
+theme: bricks
 ---
 
-# AI Nowadays
+# League of Legends: The Story of Vel'koz
 
-The Future is Now!
+Vel'koz, the Eye of the Void
 
 ---
 
 # Agenda
 
-* Brief History of AI
-* Current State of AI
-* AI Applications
-* Challenges and Limitations
-* Future of AI
+* Origins of Vel'koz
+* Abilities and Playstyle
+* Champion Synergies and Counters
+* Conclusion
 
 ---
 
-# Brief History of AI
+# Origins of Vel'koz
 
-* 1950s: AI Concept Born
-* 1951: First AI Program
-* 1960s: Rule-Based Systems
-* 1970s: Expert Systems
-* 1980s: AI Winter
-* 1990s: AI Resurgence
-* 2000s: AI Advancements
+Vel'koz, the Eye of the Void, is a powerful and mysterious champion from the Void. Born from the darkness, he serves as a guardian of the Void's secrets.
+
+> "The Void is not just a place, but a state of mind. And I am its instrument."
 
 ---
 
-# Current State of AI
+# Origins of Vel'koz (continued)
 
-* Narrow or Weak AI: Siri, Alexa, Google Assistant
-* General or Strong AI: Not Yet Achieved
-* Superintelligence: The Future Goal
+Vel'koz's true form is unknown, shrouded in an aura of darkness. His existence is a result of the Void's influence on the physical world.
 
----
-
-# AI Applications
-
-* Natural Language Processing (NLP)
-* Computer Vision
-* Robotics
-* Healthcare
-* Finance
+> "The Void seeks to reclaim its place in the universe, and I am its messenger."
 
 ---
 
-# AI Applications (continued)
+# Abilities and Playstyle
 
-* Education
-* Transportation
-* Cybersecurity
-* Home Automation
-* Customer Service
+**Q - Plasma Fission**: Deals 60/80/100/120/140 (+0.6 bonus attack damage) physical damage to all enemies within a small radius.
 
----
+**W - Void Rift**: Creates a rift that slows enemies by 20/25/30% for 1.5 seconds.
 
-# Challenges and Limitations
+**E - Tectonic Disruption**: Deals 80/110/140/170/200 (+0.8 bonus attack damage) physical damage to all enemies in a target area.
 
-* Bias in AI Systems
-* Job Displacement
-* Lack of Transparency
-* Security Risks
-* Ethical Concerns
+**R - Life Form Disintegration Ray**: Channels a beam of energy that deals 150/250/350 (+0.6 bonus attack damage) physical damage to all enemies in its path.
+
+Vel'koz excels at dealing damage from a distance and zoning enemies.
 
 ---
 
-# Future of AI
+# Champion Synergies and Counters
 
-* Increased Automation
-* Job Creation
-* Human-AI Collaboration
-* AI for Social Good
-* AI Governance
+**Synergies:**
+
+* **Lux**: Comboing Vel'koz's abilities with Lux's ultimate can lead to devastating team fights.
+* **Anivia**: Anivia's shielding abilities can help Vel'koz survive in team fights.
+
+**Counters:**
+
+* **Assassins**: Champions like LeBlanc and Fizz can quickly close the distance and eliminate Vel'koz.
+* **Tanks**: Champions with high armor and health, like Nautilus and Galio, can mitigate Vel'koz's damage.
 
 ---
 
 # Conclusion
 
-AI is transforming our world. Understanding its current state, applications, challenges, and future possibilities is crucial for harnessing its power.
+Vel'koz, the Eye of the Void, is a formidable champion with powerful abilities and a mysterious backstory. By understanding his strengths and weaknesses, you can unlock his full potential and lead your team to victory.
+
+> "The Void is patient, but I am not. The time for silence is over."
 
 ---
 
 # Q&A
 
-Your Questions?
+Do you have any questions about Vel'koz or his playstyle?
