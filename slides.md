@@ -1,71 +1,91 @@
 ---
-theme: seriph
+theme: shibainu
 ---
 
-# Rainbows and Money: The Surprising Connection
+# The Second World War
 
-The Magical World of Rainbows
-
----
-
-
-
-Rainbows: More Than Just a Pretty Sight
-
-Rainbows have captivated humans for centuries, but did you know that they can also serve as a metaphor for financial freedom?
+** Grab Attention **
+September 1, 1939, a day that changed the course of history...
 
 ---
 
-# The Pot of Gold
+# Agenda
 
-In Irish folklore, a pot of gold lies at the end of the rainbow, guarded by a mischievous leprechaun. But what if the pot of gold represents financial security and success?
-
----
-
-# The Colors of Finance
-
-Just like rainbows have different colors, financial freedom has different aspects:
-
-* Red: Risk management
-* Orange: Opportunities and investments
-* Yellow: Yield and returns
-* Green: Growth and stability
-* Blue: Balance and harmony
-* Indigo: Innovation and adaptability
-* Violet: Vision and legacy
+* Causes of the War
+* Major Events of the War
+* Key Players and Alliances
+* Consequences of the War
+* Lessons Learned
 
 ---
 
-# The Path to Financial Freedom
+# Causes of the War
+### Rise of Nationalism
+* Aggressive expansion of Germany, Italy, and Japan
+* Appeasement policy of Britain and France
 
-Financial freedom is not just about accumulating wealth; it's about living a life of purpose and fulfillment.
-
-* Set clear financial goals
-* Create a budget and track expenses
-* Invest wisely
-* Build multiple income streams
-* Stay informed and adapt to changes
-
----
-
-# Breaking Down Barriers
-
-Financial literacy is key to breaking down barriers to financial freedom. By understanding the basics of finance, you can make informed decisions and avoid costly mistakes.
+### Economic Crisis
+* Global economic downturn of the 1930s
+* Rise of fascist and nationalist ideologies
 
 ---
 
-# You Are the Rainbow
+# Causes of the War (continued)
+### Treaty of Versailles
+* Harsh penalties on Germany after WWI
+* Creation of League of Nations
 
-You have the power to create your own pot of gold. Take control of your finances, overcome obstacles, and unlock your full potential.
+### Nazi Ideology
+* Hitler's aggressive militarism and racism
 
 ---
 
-# Conclusion
+# Major Events of the War
+### Invasion of Poland (1939)
+* Germany invades Poland, prompting UK and France to declare war
 
-Rainbows and money may seem like an unlikely pair, but they share a common thread – both offer a promise of hope and opportunity. Take the first step towards financial freedom today!
+### Battle of Britain (1940)
+* Germany's air campaign against Britain
+
+---
+
+# Major Events of the War (continued)
+### Pearl Harbor (1941)
+* Japan's surprise attack on the US naval base
+
+### D-Day (1944)
+* Allied invasion of Normandy, France
+
+---
+
+# Key Players and Alliances
+### Axis Powers
+* Germany, Italy, Japan
+
+### Allied Powers
+* United States, United Kingdom, France, Soviet Union
+
+---
+
+# Consequences of the War
+### Human Toll
+* Estimated 50-80 million fatalities
+* Widespread destruction and displacement
+
+### Political Consequences
+* Emergence of the United States and Soviet Union as superpowers
+* Creation of the United Nations
+
+---
+
+# Lessons Learned
+### Importance of Collective Security
+* Need for international cooperation and collective defense
+
+### Dangers of Aggressive Nationalism
+* Risks of unchecked militarism and racism
 
 ---
 
 # Q&A
-
-Do you have any questions about creating your own pot of gold?
+Do you have any questions about the Second World War?
