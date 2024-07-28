@@ -1,64 +1,89 @@
 ---
-theme: apple-basic
+theme: default
 ---
 
-# Tekken 8: The Next Generation of Fighting Games
+# AI Nowadays
 
-The legendary fighting game series is back with a bang!
+The Future is Now!
 
 ---
 
 # Agenda
 
-* Introduction to Tekken 8
-* New Features and Gameplay Mechanics
-* Characters and Stages
-* Story Mode and Online Features
-* Conclusion and Final Thoughts
+* Brief History of AI
+* Current State of AI
+* AI Applications
+* Challenges and Limitations
+* Future of AI
 
 ---
 
-# New Features and Gameplay Mechanics
+# Brief History of AI
 
-Tekken 8 introduces a new "Rage" system, allowing players to unleash powerful attacks when their health is low.
-
-* "Rage" mode increases damage output and allows for more aggressive playstyle
-* "Rage" mode also introduces new cinematic moves and animations
-
----
-
-# New Features and Gameplay Mechanics (Cont.)
-
-* Improved graphics and character models, with more detailed stages and animations
-* New "Wall Bounce" mechanic, allowing for more complex combos and strategies
-* Redesigned user interface and menu system for easier navigation
+* 1950s: AI Concept Born
+* 1951: First AI Program
+* 1960s: Rule-Based Systems
+* 1970s: Expert Systems
+* 1980s: AI Winter
+* 1990s: AI Resurgence
+* 2000s: AI Advancements
 
 ---
 
-# Characters and Stages
+# Current State of AI
 
-* 20+ playable characters, including new and returning fighters
-* New stage designs, with interactive elements and destructible environments
-* Each character has unique abilities and playstyles
-
----
-
-# Story Mode and Online Features
-
-* Story Mode: Play through an epic narrative with cinematic cutscenes and intense action
-* Online Mode: Compete against players worldwide, with ranked matches and leaderboards
-* New "Dynamic Duo" mode, where two players can team up against AI opponents
+* Narrow or Weak AI: Siri, Alexa, Google Assistant
+* General or Strong AI: Not Yet Achieved
+* Superintelligence: The Future Goal
 
 ---
 
-# Conclusion and Final Thoughts
+# AI Applications
 
-Tekken 8 is a massive leap forward for the series, with new features, mechanics, and gameplay opportunities.
+* Natural Language Processing (NLP)
+* Computer Vision
+* Robotics
+* Healthcare
+* Finance
 
-* Get ready to Experience the Evolution of Fighting Games!
+---
+
+# AI Applications (continued)
+
+* Education
+* Transportation
+* Cybersecurity
+* Home Automation
+* Customer Service
+
+---
+
+# Challenges and Limitations
+
+* Bias in AI Systems
+* Job Displacement
+* Lack of Transparency
+* Security Risks
+* Ethical Concerns
+
+---
+
+# Future of AI
+
+* Increased Automation
+* Job Creation
+* Human-AI Collaboration
+* AI for Social Good
+* AI Governance
+
+---
+
+# Conclusion
+
+AI is transforming our world. Understanding its current state, applications, challenges, and future possibilities is crucial for harnessing its power.
 
 ---
 
 # Q&A
 
-Do you have any questions about Tekken 8?
+Your Questions?
