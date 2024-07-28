@@ -1,95 +1,66 @@
 ---
-theme: default
+theme: shibainu
 ---
 
-# League of Legends: The MOBA Phenomenon
+# Tekken 8: The Future of Fighting Games
 
-Welcome to the world of competitive gaming!
+Get ready for the next generation of fighting games!
 
 ---
 
 # Agenda
 
-* Overview of League of Legends
-* Gameplay and Features
-* Champions and Roles
-* Esports and Competitive Scene
-* Community and Cultural Impact
+* Overview of Tekken 8
+* New features and gameplay mechanics
+* Characters and stages
+* Graphics and performance
+* Conclusion and final thoughts
 
 ---
 
-# What is League of Legends?
+# What is Tekken 8?
 
- League of Legends is a multiplayer online battle arena (MOBA) game developed by Riot Games.
-Released in 2009, it has become one of the most popular PC games in the world.
-
----
-
-# Gameplay Overview
-
-* Two teams of five players each: the blue team and the red team
-* Objective: destroy the opposing team's Nexus (base)
-* Each player controls a champion with unique abilities and playstyle
+Tekken 8 is the latest installment in the iconic Tekken series
+Developed by Bandai Namco Studios
+Scheduled for release in [Year]
 
 ---
 
-# Core Gameplay Features
+# New Features and Gameplay Mechanics
 
-* Summoner's Rift: the most popular game mode
-* Top Lane, Jungle, Mid Lane, Marksman, and Flex roles
-* Items and Masteries: customize your champion's build
-* Objective-based gameplay: towers, inhibitors, and Nexus
-
----
-
-# Champions and Roles
-
-* 150+ unique champions to choose from
-* Marksmen (attack damage carry): deal physical damage from a distance
-* Fighters (assassins/bruisers): deal physical damage up close
-* Mages (ability power carry): deal magical damage
+* Introducing "Rage Arts" - a new way to unleash powerful attacks
+* Enhanced "Power Crush" system for more intense counterattacks
+* Improved "Wall Combo" system for longer and more complex combos
+* New "Heat System" for even more strategic gameplay
 
 ---
 
-# Champions and Roles (continued)
+# Characters and Stages
 
-* Tanks: absorb damage and protect allies
-* Support champions: provide utility and protection
-* Flex champions: versatile and adaptable
-
----
-
-# Esports and Competitive Scene
-
-* Professional teams and leagues around the world
-* The League of Legends Championship Series (LCS)
-* The World Championship: the most prestigious LoL tournament
+* Returning characters: Heihachi, Kazuya, Jin, and more
+* New characters: [New Character 1], [New Character 2], and more
+* Stages set in various locations around the world
+* Interactive stages with destructible environments
 
 ---
 
-# Esports and Competitive Scene (continued)
+# Graphics and Performance
 
-* Team SoloMid (TSM), Team Liquid, and G2 Esports: top teams
-* Faker, Jensen, and Ambition: legendary players
-* Prize pools reaching millions of dollars
-
----
-
-# Community and Cultural Impact
-
-* 100 million active monthly players worldwide
-* Influential esports and gaming personalities
-* Music, art, and cosplay inspired by League of Legends
+* Powered by Unreal Engine 5 for stunning visuals
+* 4K resolution at 60 frames per second
+* Support for ray tracing and global illumination
+* Optimized for PC and consoles
 
 ---
 
 # Conclusion
 
-League of Legends is a global gaming phenomenon, offering a rich gameplay experience, a diverse champion roster, and a thriving competitive scene.
-Join the summoning!
+Tekken 8 is the ultimate fighting game experience
+Get ready for the next level of competition and excitement
+Stay tuned for more updates and information
 
 ---
 
 # Q&A
 
-Do you have any questions about League of Legends?
+Do you have questions about Tekken 8?
