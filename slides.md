@@ -2,69 +2,64 @@
 theme: default
 ---
 
-# The Rise of Fast Food
+# The Impact of Fast Food on Our Health
 
-The convenience, the taste, the affordability...
+Fast food: Convenient, affordable, and delicious. But at what cost?
 
 ---
 
 # Agenda
 
-* Definition and History of Fast Food
-* Advantages and Disadvantages
-* Impact on Health and Society
-* Conclusion and Future of Fast Food
+* Definition and history of fast food
+* The nutritional value of fast food
+* The impact on our health
+* Conclusion
 
 ---
 
 # Definition and History of Fast Food
 
-Fast food refers to food that can be prepared and served quickly
- Originated in the United States in the early 20th century
- First fast food restaurant: White Castle (1921)
+Fast food: food prepared and served quickly at a low cost.
+
+* Origins: Ancient Rome and Middle Ages
+* Modern fast food: 1950s, USA
 
 ---
 
-# Advantages of Fast Food
+# Nutritional Value of Fast Food
 
-Convenient and time-saving
- Affordable and accessible
- Wide variety of options and flavors
-
----
-
-# Disadvantages of Fast Food
-
-High in calories, fat, salt, and sugar
- Linked to health problems: obesity, diabetes, heart disease
- Negative impact on local food systems and cultures
+High in:
+* Salt
+* Sugar
+* Unhealthy fats
+Low in:
+* Essential nutrients
+* Fiber
 
 ---
 
-# Impact on Health
+# The Unhealthy Truth
 
-Contributes to obesity and related health issues
-Affects children's health and eating habits
-Increased risk of heart disease and certain cancers
+* Linked to obesity, diabetes, and heart disease
+* High calorie intake, low nutritional value
+* Affects children and adults alike
 
 ---
 
-# Impact on Society
+# The Impact on Our Health
 
-Affects local economies and food systems
-Contributes to food waste and environmental issues
-Influences cultural and social norms around food
+Rising healthcare costs, decreased productivity, and a decreased quality of life.
 
 ---
 
 # Conclusion
 
-Fast food is a complex issue with both benefits and drawbacks
-Important to consider the impact on our health, society, and environment
-What can we do to create a more balanced and sustainable food system?
+Fast food: a convenient option, but at a great cost to our health.
+
+Make informed choices, opt for healthier alternatives.
 
 ---
 
 # Q&A
 
-Do you have any questions about the rise of fast food?
+Do you have any questions about the impact of fast food on our health?
