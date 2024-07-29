@@ -1,62 +1,81 @@
 ---
-theme: shibainu
+theme: bricks
 ---
 
-# Great Presentation
+# Understanding Depression and Unhealthy Obsession with Girls
 
-Thank you for the opportunity to present!
+---
+
+# Introduction
+
+ Grabbing Attention through Statistics
+
+* 1 in 4 people will experience a mental health issue each year
+* Depression is a leading cause of illness and disability among adolescents
+* Unhealthy obsession with girls can be a sign of deeper psychological issues
 
 ---
 
 # Agenda
 
-* Introduction
-* Creating Engaging Slides
-* Effective Communication
-* Conclusion
-* Q&A
+* Understanding Depression
+* The dangers of unhealthy obsession
+* Recognizing the signs
+* Breaking free from toxic patterns
 
 ---
 
-# Creating Engaging Slides
+# What is Depression?
 
-Keep it simple and concise
-Use high-quality images
-Make it interactive
+A mental health disorder characterized by persistent feelings of sadness, hopelessness, and a lack of interest in activities
 
----
-
-# Creating Engaging Slides (2)
-
-Use code blocks for highlighting
-```ts
-console.log('Engaging Slides!')
-```
+* It can affect anyone regardless of age, gender, or background
+* Depression can lead to suicidal thoughts and behavior
 
 ---
 
-# Effective Communication
+# The Dangers of Unhealthy Obsession
 
-Know your audience
-Organize your thoughts
-Practice beforehand
+When admiration turns into an unhealthy fixation
+
+* Can lead to stalking, harassment, or even violence
+* Can damage relationships and reputations
+* Can be a sign of underlying insecurities and low self-esteem
 
 ---
 
-# Effective Communication (2)
+# Recognizing the Signs
 
-Use storytelling techniques
-Make eye contact
-Use confident tone
+Identifying the red flags in yourself or others
+
+* Excessive thinking or talking about the girl
+* Feeling anxious or irritable when separated
+* Engaging in risky behaviors to get their attention
+* Ignoring personal boundaries and responsibilities
+
+---
+
+# Breaking Free from Toxic Patterns
+
+Strategies for overcoming unhealthy obsession and depression
+
+* Seek professional help from a therapist or counselor
+* Practice self-care and stress management techniques
+* Engage in healthy hobbies and activities
+* Set boundaries and prioritize personal relationships
 
 ---
 
 # Conclusion
 
-Remember: Keep it simple, Engage your audience, Communicate effectively
+Depression and unhealthy obsession with girls are serious issues that require attention and action
+
+* Recognize the signs and seek help if needed
+* Prioritize mental health and well-being
+* Encourage healthy relationships and behaviors
 
 ---
 
 # Q&A
 
-Do you have any questions about creating great presentations?
+Addressing your questions and concerns
