@@ -1,65 +1,62 @@
 ---
-theme: default
+theme: shibainu
 ---
 
-# The Impact of Fast Food on Our Health
+# Great Presentation
 
-Fast food: Convenient, affordable, and delicious. But at what cost?
+Thank you for the opportunity to present!
 
 ---
 
 # Agenda
 
-* Definition and history of fast food
-* The nutritional value of fast food
-* The impact on our health
+* Introduction
+* Creating Engaging Slides
+* Effective Communication
 * Conclusion
+* Q&A
 
 ---
 
-# Definition and History of Fast Food
+# Creating Engaging Slides
 
-Fast food: food prepared and served quickly at a low cost.
-
-* Origins: Ancient Rome and Middle Ages
-* Modern fast food: 1950s, USA
-
----
-
-# Nutritional Value of Fast Food
-
-High in:
-* Salt
-* Sugar
-* Unhealthy fats
-Low in:
-* Essential nutrients
-* Fiber
+Keep it simple and concise
+Use high-quality images
+Make it interactive
 
 ---
 
-# The Unhealthy Truth
+# Creating Engaging Slides (2)
 
-* Linked to obesity, diabetes, and heart disease
-* High calorie intake, low nutritional value
-* Affects children and adults alike
+Use code blocks for highlighting
+```ts
+console.log('Engaging Slides!')
+```
 
 ---
 
-# The Impact on Our Health
+# Effective Communication
 
-Rising healthcare costs, decreased productivity, and a decreased quality of life.
+Know your audience
+Organize your thoughts
+Practice beforehand
+
+---
+
+# Effective Communication (2)
+
+Use storytelling techniques
+Make eye contact
+Use confident tone
 
 ---
 
 # Conclusion
 
-Fast food: a convenient option, but at a great cost to our health.
-
-Make informed choices, opt for healthier alternatives.
+Remember: Keep it simple, Engage your audience, Communicate effectively
 
 ---
 
 # Q&A
 
-Do you have any questions about the impact of fast food on our health?
+Do you have any questions about creating great presentations?
