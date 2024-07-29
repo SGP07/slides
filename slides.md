@@ -1,66 +1,62 @@
 ---
-theme: shibainu
+theme: seriph
 ---
 
-# Tekken 8: The Future of Fighting Games
+# Jeux Olympiques 2024: Les attentes et les défis
 
-Get ready for the next generation of fighting games!
+**Introduction**
+Les Jeux Olympiques de 2024, une opportunité pour Paris de briller !
 
 ---
 
 # Agenda
-
-* Overview of Tekken 8
-* New features and gameplay mechanics
-* Characters and stages
-* Graphics and performance
-* Conclusion and final thoughts
-
----
-
-# What is Tekken 8?
-
-Tekken 8 is the latest installment in the iconic Tekken series
-Developed by Bandai Namco Studios
-Scheduled for release in [Year]
+* Présentation des Jeux Olympiques 2024
+* Les attentes des jeux
+* Les défis à relever
+* Les préparatifs en cours
+* Conclusion et perspectives
 
 ---
 
-# New Features and Gameplay Mechanics
-
-* Introducing "Rage Arts" - a new way to unleash powerful attacks
-* Enhanced "Power Crush" system for more intense counterattacks
-* Improved "Wall Combo" system for longer and more complex combos
-* New "Heat System" for even more strategic gameplay
-
----
-
-# Characters and Stages
-
-* Returning characters: Heihachi, Kazuya, Jin, and more
-* New characters: [New Character 1], [New Character 2], and more
-* Stages set in various locations around the world
-* Interactive stages with destructible environments
+# Les Jeux Olympiques 2024: Présentation
+* Édition des Jeux Olympiques d'été
+* Du 26 juillet au 11 août 2024
+* 10 000 athlètes attendus
+* 32 sports et 5 nouveaux sports ajoutés (surf, skateboard, escalade, karaté, baseball/softball)
 
 ---
 
-# Graphics and Performance
+# Les attentes des jeux
+* Réunir les sportifs et les spectateurs du monde entier
+* Promouvoir l'olympisme et les valeurs qu'il défend
+* Fédérer les jeunes générations autour du sport
+* Faire de Paris la ville hôte la plus durable et la plus innovante
 
-* Powered by Unreal Engine 5 for stunning visuals
-* 4K resolution at 60 frames per second
-* Support for ray tracing and global illumination
-* Optimized for PC and consoles
+---
+
+# Les défis à relever
+* Environnemental: réduire l'impact écologique des jeux
+* Sécurité: assurer la sécurité des athlètes, des spectateurs et des villes hôtes
+* Financier: gérer les coûts et les retombées économiques
+* Logistique: organiser les événements et les transports
+
+---
+
+# Les préparatifs en cours
+* Construction de nouvelles infrastructures (village olympique, piscine, etc.)
+* Mise en place d'un système de gestion des événements
+* Développement d'une stratégie de communication et de marketing
+* Formation des équipes d'organisation et des volontaires
 
 ---
 
 # Conclusion
+Les Jeux Olympiques 2024, un événement historique pour Paris et la France !
 
-Tekken 8 is the ultimate fighting game experience
-Get ready for the next level of competition and excitement
-Stay tuned for more updates and information
+* Résumé des attentes et des défis
+* Appel à l'action pour les parties prenantes
 
 ---
 
-# Q&A
-
-Do you have questions about Tekken 8?
+# Q&R
+Posez vos questions !
