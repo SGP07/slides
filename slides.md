@@ -2,80 +2,74 @@
 theme: bricks
 ---
 
-# Understanding Depression and Unhealthy Obsession with Girls
+# World War 2: The Global Conflict
+
+**Agenda**
+
+* Introduction
+* Causes of World War 2
+* Escalation and Conflicts
+* Theories and Reasons
+* Notable Events
+* The End of the War
+* Consequences
 
 ---
 
 # Introduction
 
- Grabbing Attention through Statistics
-
-* 1 in 4 people will experience a mental health issue each year
-* Depression is a leading cause of illness and disability among adolescents
-* Unhealthy obsession with girls can be a sign of deeper psychological issues
+The Second World War, one of the deadliest conflicts in human history, lasted from 1939 to 1945 and involved more than 30 countries.
 
 ---
 
-# Agenda
+# Causes of World War 2
 
-* Understanding Depression
-* The dangers of unhealthy obsession
-* Recognizing the signs
-* Breaking free from toxic patterns
-
----
-
-# What is Depression?
-
-A mental health disorder characterized by persistent feelings of sadness, hopelessness, and a lack of interest in activities
-
-* It can affect anyone regardless of age, gender, or background
-* Depression can lead to suicidal thoughts and behavior
+* **Appeasement Policy**: Britain and France's policy of giving in to Germany's demands, emboldening Hitler's aggression
+* **Rise of Nationalism**: Extreme nationalism in Germany, Italy, and Japan led to aggressive expansion and militarization
+* **Economic Crisis**: Global economic crisis of the 1930s created an environment for extremist ideologies to flourish
+* **Treaty of Versailles**: Punitive terms imposed on Germany after WWI led to widespread resentment and a desire for revenge
 
 ---
 
-# The Dangers of Unhealthy Obsession
+# Escalation and Conflicts
 
-When admiration turns into an unhealthy fixation
-
-* Can lead to stalking, harassment, or even violence
-* Can damage relationships and reputations
-* Can be a sign of underlying insecurities and low self-esteem
-
----
-
-# Recognizing the Signs
-
-Identifying the red flags in yourself or others
-
-* Excessive thinking or talking about the girl
-* Feeling anxious or irritable when separated
-* Engaging in risky behaviors to get their attention
-* Ignoring personal boundaries and responsibilities
+* **German Aggression**: Hitler's invasion of Poland in 1939 led to declarations of war by France and Britain
+* **Battle of Britain**: Germany's failed attempt to gain air superiority over Britain in 1940
+* **Invasion of the Soviet Union**: Germany's disastrous campaign against the Soviet Union, known as Operation Barbarossa
+* **Pacific Theater**: Japan's surprise attack on Pearl Harbor, drawing the United States into the war
 
 ---
 
-# Breaking Free from Toxic Patterns
+# Theories and Reasons
 
-Strategies for overcoming unhealthy obsession and depression
-
-* Seek professional help from a therapist or counselor
-* Practice self-care and stress management techniques
-* Engage in healthy hobbies and activities
-* Set boundaries and prioritize personal relationships
+* **Fascist Ideology**: Aggressive nationalism, racism, and militarism drove the Axis powers' expansionist policies
+* ** Imperative of Resources**: Competition for resources, such as oil and territory, contributed to the conflict
+* **Geostrategic Interests**: Germany, Italy, and Japan sought to expand their empires and secure strategic territories
 
 ---
 
-# Conclusion
+# Notable Events
 
-Depression and unhealthy obsession with girls are serious issues that require attention and action
+* **The Blitz**: Germany's intensive bombing campaign against British cities
+* **D-Day**: Allied invasion of Normandy in June 1944, marking a turning point in the war
+* **Atomic Bombings**: The United States' dropping of atomic bombs on Hiroshima and Nagasaki in August 1945
+* **The Holocaust**: Systematic persecution and genocide of six million Jews and millions of others by the Nazi regime
 
-* Recognize the signs and seek help if needed
-* Prioritize mental health and well-being
-* Encourage healthy relationships and behaviors
+---
+
+# The End of the War
+
+* **Allied Victory**: Allied forces defeated Germany, Italy, and Japan in a series of decisive battles and campaigns
+* **Unconditional Surrender**: Germany and Japan surrendered unconditionally in May and September 1945, respectively
+
+---
+
+# Consequences
+
+* **Massive Loss of Life**: Estimated 50-80 million fatalities, including military and civilian losses
+* **Destruction and Rebuilding**: Widespread destruction of cities, infrastructure, and economies, followed by a long period of rebuilding
+* **Cold War**: The war's aftermath saw the emergence of the United States and the Soviet Union as superpowers, setting the stage for the Cold War
 
 ---
 
 # Q&A
-
-Addressing your questions and concerns
