@@ -1,62 +1,70 @@
 ---
-theme: seriph
+theme: default
 ---
 
-# Jeux Olympiques 2024: Les attentes et les défis
+# The Rise of Fast Food
 
-**Introduction**
-Les Jeux Olympiques de 2024, une opportunité pour Paris de briller !
+The convenience, the taste, the affordability...
 
 ---
 
 # Agenda
-* Présentation des Jeux Olympiques 2024
-* Les attentes des jeux
-* Les défis à relever
-* Les préparatifs en cours
-* Conclusion et perspectives
+
+* Definition and History of Fast Food
+* Advantages and Disadvantages
+* Impact on Health and Society
+* Conclusion and Future of Fast Food
 
 ---
 
-# Les Jeux Olympiques 2024: Présentation
-* Édition des Jeux Olympiques d'été
-* Du 26 juillet au 11 août 2024
-* 10 000 athlètes attendus
-* 32 sports et 5 nouveaux sports ajoutés (surf, skateboard, escalade, karaté, baseball/softball)
+# Definition and History of Fast Food
+
+Fast food refers to food that can be prepared and served quickly
+ Originated in the United States in the early 20th century
+ First fast food restaurant: White Castle (1921)
 
 ---
 
-# Les attentes des jeux
-* Réunir les sportifs et les spectateurs du monde entier
-* Promouvoir l'olympisme et les valeurs qu'il défend
-* Fédérer les jeunes générations autour du sport
-* Faire de Paris la ville hôte la plus durable et la plus innovante
+# Advantages of Fast Food
+
+Convenient and time-saving
+ Affordable and accessible
+ Wide variety of options and flavors
 
 ---
 
-# Les défis à relever
-* Environnemental: réduire l'impact écologique des jeux
-* Sécurité: assurer la sécurité des athlètes, des spectateurs et des villes hôtes
-* Financier: gérer les coûts et les retombées économiques
-* Logistique: organiser les événements et les transports
+# Disadvantages of Fast Food
+
+High in calories, fat, salt, and sugar
+ Linked to health problems: obesity, diabetes, heart disease
+ Negative impact on local food systems and cultures
 
 ---
 
-# Les préparatifs en cours
-* Construction de nouvelles infrastructures (village olympique, piscine, etc.)
-* Mise en place d'un système de gestion des événements
-* Développement d'une stratégie de communication et de marketing
-* Formation des équipes d'organisation et des volontaires
+# Impact on Health
+
+Contributes to obesity and related health issues
+Affects children's health and eating habits
+Increased risk of heart disease and certain cancers
+
+---
+
+# Impact on Society
+
+Affects local economies and food systems
+Contributes to food waste and environmental issues
+Influences cultural and social norms around food
 
 ---
 
 # Conclusion
-Les Jeux Olympiques 2024, un événement historique pour Paris et la France !
 
-* Résumé des attentes et des défis
-* Appel à l'action pour les parties prenantes
+Fast food is a complex issue with both benefits and drawbacks
+Important to consider the impact on our health, society, and environment
+What can we do to create a more balanced and sustainable food system?
 
 ---
 
-# Q&R
-Posez vos questions !
+# Q&A
+
+Do you have any questions about the rise of fast food?
