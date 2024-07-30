@@ -1,65 +1,80 @@
 ---
-theme: bricks
+theme: shibainu
 ---
 
-# The Importance of Implementing a CRM in a Real Estate Project
+# The Shiba Inu: Japan's Ancient Dog Breed
+
+A majestic and mysterious breed with a rich history
 
 ---
-# Introduction: Revolutionize Your Real Estate Business
 
-In today's competitive real estate market, staying ahead of the competition requires more than just a successful sales strategy. It demands a robust system to manage relationships, streamline processes, and drive growth. That's where a Customer Relationship Management (CRM) system comes in.
+# What is a Shiba Inu?
 
----
-# Agenda
+The Shiba Inu is an ancient dog breed from Japan, known for its agility, intelligence, and independence
 
-- The Challenges of Real Estate Project Management
-- Benefits of Implementing a CRM
-- Features to Look for in a Real Estate CRM
-- Implementing a CRM: Best Practices
-- Conclusion
+* Also known as the "Small Brushwood Dog"
+* Originated in the mountains of Japan over 3,000 years ago
 
 ---
-# The Challenges of Real Estate Project Management
 
-* Disorganized Client Data
-* Inefficient Lead Management
-* Poor Communication and Collaboration
-* Difficulty in Tracking Sales Performance
-* Inaccurate Forecasting and Reporting
+# Physical Characteristics
 
----
-# Benefits of Implementing a CRM
-
-* Centralized Client Database
-* Automated Lead Management and Follow-ups
-* Enhanced Collaboration and Communication
-* Data-Driven Sales Insights and Reporting
-* Personalized Customer Engagement
+* Small to medium size, 13-17 inches tall, 15-25 pounds
+* Compact, muscular body with a distinctive fox-like face
+* Triangular ears, curved tail, and a stiff, straight coat
+* Three main coat colors: red, black, and sesame
 
 ---
-# Features to Look for in a Real Estate CRM
 
-* Contact and Lead Management
-* Property and Listing Management
-* Sales Pipeline Management
-* Marketing Automation
-* Analytics and Reporting
+# Temperament and Personality
 
----
-# Implementing a CRM: Best Practices
-
-* Define Clear Goals and Objectives
-* Choose a CRM that Integrates with Existing Tools
-* Provide Comprehensive Training and Support
-* Establish a Data Management Strategy
-* Monitor and Evaluate CRM Performance
+* Confident, strong-willed, and independent
+* Known for their strong prey drive and hunting instincts
+* Loyal and affectionate, but can be reserved with strangers
+* Highly intelligent, but can be stubborn at times
 
 ---
-# Conclusion: Transform Your Real Estate Business
 
-Implementing a CRM in your real estate project can revolutionize the way you manage relationships, streamline processes, and drive growth. By understanding the challenges, benefits, and best practices, you can make an informed decision to invest in a CRM that meets your business needs.
+# Grooming and Health
+
+* Short, smooth coat requires minimal grooming
+* Prone to health issues such as hip dysplasia and patellar luxation
+* Average lifespan: 12-15 years
 
 ---
-# Q&A: Your Questions Answered
 
-Do you have any questions about implementing a CRM in your real estate project?
+# History and Purpose
+
+* Originated as a hunting dog, used to hunt small game in Japan's mountains
+* Highly valued for their bravery, agility, and hunting prowess
+* Today, primarily kept as a companion dog and show dog
+
+---
+
+# Interesting Facts
+
+* The Shiba Inu is one of the oldest dog breeds, with a history dating back over 3,000 years
+* They are known for their "Shiba scream," a high-pitched scream used to express excitement or anxiety
+* Shiba Inus are often referred to as "cat-like" due to their independence and cleanliness
+
+---
+
+# Care and Training
+
+* Require regular exercise and mental stimulation
+* Need early socialization and training to overcome their independent nature
+* Positive reinforcement training recommended, as they can be sensitive to criticism
+
+---
+
+# Conclusion
+
+The Shiba Inu is a unique and captivating breed, rich in history and character
+With proper care and training, they can make loyal and loving companions
+Remember to respect their independence and strong will, and you'll be rewarded with a lifelong friendship
+
+---
+
+# Q&A
+
+Do you have any questions about the Shiba Inu breed?
