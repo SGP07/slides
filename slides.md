@@ -1,85 +1,64 @@
 ---
-theme: default
+theme: seriph
 ---
 
-# Why an AI Presentation Generator is Actually a Bad Idea
+# 2022 Year in Review
 
-Think Again: AI Presentation Generators Aren't the Silver Bullet You Think They Are
-
----
-
-# The Promise vs. The Reality
-
-AI presentation generators promise to save you time and effort, but do they truly deliver?
+Welcome to our 2022 Year in Review presentation!
 
 ---
 
-# Lack of Human Touch
+# Agenda
 
- Generators can't replicate the emotional connection and authenticity of a human presenter
-
-```markdown
-- No personal anecdotes
-- No passion and enthusiasm
-- No ability to read the room
-```
+* Overview of 2022 performance
+* Key highlights and achievements
+* Challenges and lessons learned
+* Looking ahead to 2023
 
 ---
 
-# Over-reliance on Templates
+# 2022 Performance Overview
 
- Pre-designed templates stifle creativity and result in unoriginal content
+2022 was a significant year for us, with many accomplishments and challenges. Here are some key highlights:
 
-```markdown
-- Uninspired design
-- Lack of customization options
-- Templates can quickly become outdated
-```
+* Revenue growth: 15% increase from 2021
+* Product launches: 3 new products successfully launched
+* Team expansion: 20 new employees joined our team
 
 ---
 
-# Limited Contextual Understanding
+# Key Highlights and Achievements
 
-AI generators struggle to understand the nuances of human language and context
-
-```markdown
-- Misinterpretation of tone and intent
-- Failure to grasp complex ideas
-- Inability to adapt to changing audience needs
-```
+* Award-winning campaign: Our marketing team won an industry award for their innovative campaign
+* Community engagement: We saw a 50% increase in social media engagement and followers
+* Partnership success: We formed strategic partnerships with 5 new clients
 
 ---
 
-# Inauthenticity and Lack of Transparency
+# Challenges and Lessons Learned
 
-Generated presentations can be misleading and dishonest
-
-```markdown
-- Presenting AI-generated content as original work
-- Suppressing the role of AI in content creation
-- Potential for propaganda and misinformation
-```
+* Supply chain disruptions: We faced challenges in our supply chain, but were able to mitigate the impact
+* Talent acquisition: We struggled to find the right talent, but implemented new hiring strategies
+* Adaptation to change: We learned to be more agile and adaptable in a rapidly changing market
 
 ---
 
-# The Importance of Human Input
+# Looking Ahead to 2023
 
-AI tools should augment human creativity, not replace it
+Our goals for 2023 include:
 
-```markdown
-- Human oversight is essential for quality and accuracy
-- AI tools should assist, not dominate, the creative process
-- The value of human input lies in nuance and emotional intelligence
-```
+* Continuing revenue growth: 20% increase from 2022
+* Expanding our product line: 2 new products in development
+* Enhancing customer experience: Implementing new customer feedback systems
 
 ---
 
 # Conclusion
 
-Don't rely solely on AI presentation generators. They may save time, but they sacrifice authenticity, creativity, and transparency.
+In conclusion, 2022 was a year of growth, achievements, and lessons learned. We're excited to build on our successes and tackle new challenges in 2023. Thank you for your attention!
 
 ---
 
 # Q&A
 
-Your questions and concerns about AI presentation generators are welcome!
+Do you have any questions about our 2022 year in review?
