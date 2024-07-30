@@ -12,11 +12,11 @@ In today's competitive real estate market, staying ahead of the competition requ
 ---
 # Agenda
 
-* The Challenges of Real Estate Project Management
-* Benefits of Implementing a CRM
-* Features to Look for in a Real Estate CRM
-* Implementing a CRM: Best Practices
-* Conclusion
+- The Challenges of Real Estate Project Management
+- Benefits of Implementing a CRM
+- Features to Look for in a Real Estate CRM
+- Implementing a CRM: Best Practices
+- Conclusion
 
 ---
 # The Challenges of Real Estate Project Management
