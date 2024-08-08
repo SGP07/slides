@@ -2,76 +2,59 @@
 theme: bricks
 ---
 
-# Gold as an Investment Vehicle
+# Mon Meilleur Ami : Les Joies d'Avoir un Chien
 
-Gold: The Timeless Asset
-
----
-
-# What is Gold as an Investment?
-
-Gold has been a store of value for thousands of years. It's a tangible asset that provides a hedge against inflation, currency fluctuations, and market volatility.
+Woof woof ! Les chiens sont-ils les meilleurs amis de l'homme ?
 
 ---
 
-# History of Gold as an Investment
+## Agenda
 
-Gold has been used as a form of currency, jewelry, and store of value across cultures and civilizations.
-
-```mermaid
-graph LR
-  A[ ancient civilizations ] --> B[ gold as currency ]
-  B --> C[ gold as jewelry ]
-  C --> D[ gold as store of value ]
-  D --> E[ modern investment ]
-```
+* Les avantages de la présence d'un chien dans votre vie
+* Les différentes races de chiens et leurs caractéristiques
+* Comment s'occuper d'un chien pour une relation durable
+* Les bienfaits pour la santé et le bien-être
 
 ---
 
-# Benefits of Gold as an Investment
+## Avantages d'avoir un chien
 
-Diversification: Gold has a low correlation with stocks and bonds, making it an ideal addition to a portfolio.
-
-**Hedge Against Inflation**: Gold tends to increase in value during periods of high inflation.
-
----
-
-# Benefits of Gold as an Investment (continued)
-
-**Store of Value**: Gold retains its value over time, making it a reliable store of wealth.
-
-**Liquidity**: Gold can be easily bought and sold on global markets.
-
-**No Counterparty Risk**: Gold is not dependent on the performance of companies or governments.
+* Compagnie et affection
+* Incitation à la pratique d'activités physiques
+* Socialisation et rencontre de nouvelles personnes
 
 ---
 
-# How to Invest in Gold
+## Les différentes races de chiens
 
-**Physical Gold**: Buy gold coins, bars, or jewelry from reputable dealers.
-
-**Gold ETFs**: Invest in gold exchange-traded funds, which track the price of gold.
-
-**Gold Mining Stocks**: Invest in companies that mine gold, which can provide exposure to gold prices.
+* Petits chiens : Cavalier King Charles, Chihuahua, Poodle
+* Chiens de taille moyenne : Cocker, Beagle, Springer
+* Grands chiens : Golden Retriever, Labrador, Rottweiler
 
 ---
 
-# Risks of Gold as an Investment
+## Soins et éducation d'un chien
 
-**Volatility**: Gold prices can fluctuate rapidly.
-
-**Storage and Security**: Physical gold requires secure storage, which can be costly.
-
-**Liquidity**: Selling gold can take time, and prices may drop during that time.
+* Alimentation saine et hydratation
+* Exercices réguliers et entraînement
+* Vaccinations et soins vétérinaires
 
 ---
 
-# Conclusion
+## Bienfaits pour la santé et le bien-être
 
-Gold as an investment vehicle offers a unique combination of diversification, hedging, and store of value. While it comes with risks, gold can be a valuable addition to a well-balanced portfolio.
+* Réduction du stress et de l'anxiété
+* Amélioration de la santé physique et mentale
+* Augmentation de la confiance et de l'auto-estime
 
 ---
 
-# Q&A
+## Conclusion
 
-Do you have any questions about gold as an investment vehicle?
+Les chiens sont vraiment nos meilleurs amis ! Ils nous apportent joie, amour et compagnie. En retour, nous devons leur offrir soins, amour et attention.
+
+---
+
+## Questions et Réponses
+
+Posez vos questions sur les chiens et leurs soins !
