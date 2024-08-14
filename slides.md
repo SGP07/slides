@@ -1,63 +1,72 @@
 ---
-theme: default
+theme: shibainu
 ---
 
-# Why Kuromi is the Best Sanrio Character
+# Londres, la ville du monde
 
-Kuromi, the Mischievous One
-
-Kuromi, the rival of My Melody, is often overlooked, but she's the best Sanrio character for many reasons.
-
----
-
-# The Birth of Kuromi
-
-Created in 1975, Kuromi is a symbol of mischief and playfulness.
-
-> "Kuromi" () means "black beauty" or "black oni," reflecting her dark, yet cute appearance.
+Bonjour et bienvenue dans cette présentation sur Londres, la ville la plus cosmopolite du monde !
 
 ---
 
-# Unique Design
+# Londres, un melting pot
 
-Kuromi's design stands out from the usual Sanrio characters.
-
-Her black and red devil-like costume, complete with a cute horn and a mischievous grin, makes her irresistible.
-
----
-
-# Personality
-
-Kuromi is not just a pretty face; she's a prankster with a playful and mischievous personality.
-
-She loves to play tricks on her friends, especially My Melody, making her a lovable and relatable character.
+Londres, capitale de l'Angleterre, est une ville qui réunit des cultures du monde entier.
+Plus de 300 langues sont parlées à Londres, en faisant une des villes les plus diverses au monde.
 
 ---
 
-# Versatility
+# Histoire de l'immigration à Londres
 
-Kuromi has appeared in various forms of media, from TV shows to video games.
-
-Her popularity has led to numerous merchandise, including plush toys, keychains, and stationery.
+Depuis l'époque romaine, Londres a toujours été une ville d'accueil pour les étrangers.
+Les Romains, les Vikings, les Huguenots, les Juifs, les Indiens, les Africains... Toutes ces communautés ont contribué à l'enrichissement de la culture londonienne.
 
 ---
 
-# Comparison to My Melody
+# La communauté africaine à Londres
 
-While My Melody is sweet and innocent, Kuromi is the perfect opposite.
+La communauté africaine est une des plus importantes à Londres, avec plus de 500 000 personnes.
+Les Africains ont apporté leur musique, leur cuisine, leur danse et leur art à la ville.
+Notamment, le Carnaval de Notting Hill, qui a lieu chaque année, est un exemple de la culture africaine à Londres.
 
-Their rivalry adds depth to the Sanrio universe, making Kuromi a refreshing change from the usual cute and sweet characters.
+---
+
+# La communauté asiatique à Londres
+
+La communauté asiatique est également très présente à Londres, avec plus de 1 million de personnes.
+Les Asiatiques ont apporté leur cuisine, leurs traditions et leur culture à la ville.
+Le quartier de Chinatown est un exemple de la communauté asiatique à Londres.
+
+---
+
+# La liberté d'expression à Londres
+
+Londres est une ville qui accueille les différences et où la liberté d'expression est très valorisée.
+Les artistes, les musiciens, les écrivains... tous ont trouvé à Londres un terreau fertile pour s'exprimer.
+
+---
+
+# La cuisine londonienne
+
+La cuisine londonienne est un mélange de savingnons et de plats du monde entier.
+Vous pouvez trouver des restaurants indiens, chinois, africains, italiens... à chaque coin de rue.
+
+---
+
+# Le multiculturalisme à Londres
+
+Le multiculturalisme est une force qui façonne la ville de Londres.
+Les Londoniens sont fiers de leur diversité et considèrent que c'est ce qui rend leur ville unique.
 
 ---
 
 # Conclusion
 
-Kuromi's unique design, playful personality, and versatility make her the best Sanrio character.
-
-She's the perfect representation of Sanrio's ability to create lovable and memorable characters.
+Londres, la ville du monde, est un exemple de réussite du multiculturalisme.
+La diversité culturelle a enrichi la ville et en a fait une destination touristique incontournable.
+Merci pour votre attention !
 
 ---
 
-# Q&A
+# Q&R
 
-Do you have any questions about why Kuromi is the best Sanrio character?
+Posez vos questions !
