@@ -1,76 +1,73 @@
 ---
-theme: shibainu
+theme: apple-basic
 ---
 
-# Nidoroom: La plateforme idéale pour les étudiants à la recherche d'un hébergement abordable
+# SlidesAI: Revolutionizing Presentations with AI
 
 ---
+# What is SlidesAI?
 
-# Introduction
-
-Recherche d'un hébergement abordable pour les étudiants ? Nidoroom est là pour vous aider !
-
-* Les étudiants ont besoin d'un hébergement confortable et abordable pour se concentrer sur leurs études.
-* Mais trouver un hébergement raisonnable peut être difficile, notamment pour les nouveaux arrivants.
+A SaaS platform that generates presentations from a prompt using Artificial Intelligence.
 
 ---
+# The Problem: Time-Consuming Presentations
 
-# Agenda
-
-* Les problèmes actuels de l'hébergement étudiant
-* Comment Nidoroom répond à ces besoins
-* Les avantages pour les résidences étudiantes et les étudiants
-* Comment utiliser Nidoroom pour trouver l'hébergement idéal
+Creating engaging presentations is a tedious and time-consuming task.
+Designing, researching, and structuring content can take hours, even days.
 
 ---
+# Introducing SlidesAI: The Solution
 
-# Problèmes actuels de l'hébergement étudiant
-
-* Les hébergements étudiants traditionnels sont souvent chers et ne répondent pas aux besoins des étudiants.
-* Les étudiants doivent souvent partager des chambres petites et bruyantes.
-* Les périodes de vacances sont souvent problématiques pour les étudiants qui doivent quitter leur hébergement.
+Our AI-powered platform generates high-quality presentations in seconds.
+Simply enter a prompt, and our AI will create a visually appealing presentation.
 
 ---
+# How it Works
 
-# Comment Nidoroom répond à ces besoins
-
-* Nidoroom permet aux étudiants de trouver des hébergements abordables dans des résidences étudiantes partout dans le monde.
-* Les résidences étudiantes peuvent louer leurs chambres libres pendant les périodes de vacances.
-* Les étudiants peuvent réserver des chambres pour des périodes flexibles (semaine, mois, etc.).
-
----
-
-# Avantages pour les résidences étudiantes
-
-* Résidences étudiantes : remplissez vos chambres vides et générez des revenus supplémentaires.
-* Réduisez les coûts de maintenance et d'électricité grâce à une occupation plus régulière.
-* Améliorez la communauté étudiante en hébergeant des étudiants de différents horizons.
+1. **User Inputs Prompt**: Enter a topic, question, or idea.
+2. **AI Processes Information**: Our algorithm analyzes the prompt and gathers relevant data.
+3. **AI Designs Presentation**: The AI generates a structured presentation with engaging content and visuals.
 
 ---
+# Features of SlidesAI
 
-# Avantages pour les étudiants
-
-* Trouvez des hébergements abordables et confortables près de vos écoles.
-* Choisissez des périodes de location flexibles selon vos besoins.
-* Réservez une chambre en quelques clics et obtenez un hébergement sûr et fiable.
-
----
-
-# Comment utiliser Nidoroom
-
-* Créez un compte sur Nidoroom et explorez les résidences étudiantes disponibles.
-* Filtrez les résultats par prix, localisation et équipements.
-* Réservez votre chambre idéale en quelques clics.
+**Variety of Templates**: Choose from a range of modern, customizable templates.
+**Real-time Collaboration**: Invite team members to edit and review presentations simultaneously.
+**AI-Powered Design**: Receive suggestions for images, icons, and fonts to enhance your presentation.
 
 ---
+# Benefits of SlidesAI
 
+**Save Time**: Focus on high-leverage activities, while SlidesAI handles presentation creation.
+**Improve Quality**: Professional, engaging presentations without extensive design experience.
+**Enhance Collaboration**: Streamlined workflow for teams and clients.
+
+---
+# Use Cases for SlidesAI
+
+**Business**: Pitch deck creation, sales presentations, and company updates.
+**Education**: Student projects, lectures, and research presentations.
+**Marketing**: Product launches, webinars, and social media content.
+
+---
+# Demo: See SlidesAI in Action
+
+Try SlidesAI now and experience the future of presentation creation!
+
+---
+# Pricing Plans
+
+**Basic**: Ideal for individuals and small teams.
+**Pro**: Suitable for businesses and large teams.
+**Enterprise**: Customized solutions for corporations.
+
+---
 # Conclusion
 
-Nidoroom est la plateforme idéale pour les étudiants qui cherchent un hébergement abordable et confortable.
-* Réservez votre chambre aujourd'hui et commencez à profiter de votre parcours étudiant.
+SlidesAI is the ultimate solution for creating high-quality presentations quickly and efficiently.
+Join the revolution and transform the way you present!
 
 ---
+# Q&A
 
-# Q&R
-
-Posez vos questions, nous sommes là pour vous aider !
+Do you have any questions about SlidesAI?
