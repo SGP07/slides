@@ -1,73 +1,94 @@
 ---
-theme: apple-basic
+theme: bricks
 ---
 
-# SlidesAI: Revolutionizing Presentations with AI
+# Esinovation: Entrepreneurship and Innovation at the Heart of University Life
+
+Creating the next generation of entrepreneurs and innovators
 
 ---
-# What is SlidesAI?
 
-A SaaS platform that generates presentations from a prompt using Artificial Intelligence.
+# Introduction
 
----
-# The Problem: Time-Consuming Presentations
+Esinovation is a university club dedicated to fostering entrepreneurship and equipping students with valuable skills for the professional world. Our mission is to empower students to turn their ideas into reality and become active players in the business ecosystem.
 
-Creating engaging presentations is a tedious and time-consuming task.
-Designing, researching, and structuring content can take hours, even days.
+Our objectives:
 
----
-# Introducing SlidesAI: The Solution
-
-Our AI-powered platform generates high-quality presentations in seconds.
-Simply enter a prompt, and our AI will create a visually appealing presentation.
+* Provide a platform for students to explore entrepreneurship and innovation
+* Develop skills and knowledge essential for success in the professional world
+* Foster a collaborative community that supports and encourages students
 
 ---
-# How it Works
 
-1. **User Inputs Prompt**: Enter a topic, question, or idea.
-2. **AI Processes Information**: Our algorithm analyzes the prompt and gathers relevant data.
-3. **AI Designs Presentation**: The AI generates a structured presentation with engaging content and visuals.
+# Entrepreneurship Education
 
----
-# Features of SlidesAI
+Programs that help students develop entrepreneurial skills:
 
-**Variety of Templates**: Choose from a range of modern, customizable templates.
-**Real-time Collaboration**: Invite team members to edit and review presentations simultaneously.
-**AI-Powered Design**: Receive suggestions for images, icons, and fonts to enhance your presentation.
+* Business Model Canvas workshops
+* Lean Startup methodology training
+* Pitching and idea validation sessions
+* Mentorship programs with experienced entrepreneurs and industry experts
 
----
-# Benefits of SlidesAI
-
-**Save Time**: Focus on high-leverage activities, while SlidesAI handles presentation creation.
-**Improve Quality**: Professional, engaging presentations without extensive design experience.
-**Enhance Collaboration**: Streamlined workflow for teams and clients.
+Our entrepreneurship education programs are designed to help students develop a entrepreneurial mindset, validate their ideas, and create a solid business plan.
 
 ---
-# Use Cases for SlidesAI
 
-**Business**: Pitch deck creation, sales presentations, and company updates.
-**Education**: Student projects, lectures, and research presentations.
-**Marketing**: Product launches, webinars, and social media content.
+# Entrepreneurship Education (continued)
 
----
-# Demo: See SlidesAI in Action
+* Case studies and business plan competitions
+* Guest lectures from successful entrepreneurs and industry experts
+* Access to resources and tools for startup development
 
-Try SlidesAI now and experience the future of presentation creation!
+By participating in our programs, students gain a solid understanding of entrepreneurship and develop the skills and confidence to turn their ideas into reality.
 
 ---
-# Pricing Plans
 
-**Basic**: Ideal for individuals and small teams.
-**Pro**: Suitable for businesses and large teams.
-**Enterprise**: Customized solutions for corporations.
+# Workshops and Skill Development
+
+Range of workshops and skill development opportunities:
+
+* Programming languages: Python, Java, JavaScript
+* Web development: HTML, CSS, React
+* Data analysis and visualization: Excel, Tableau, Power BI
+* Marketing and branding: Digital marketing, Social media, Brand identity
+
+Our workshops and skill development programs are designed to equip students with practical skills that complement their academic education and enhance their employability.
 
 ---
+
+# Professional Insertion
+
+Supporting students' transition into the workforce:
+
+* Networking events with industry professionals and entrepreneurs
+* Internship and job placement opportunities
+* Mentorship programs with experienced professionals
+* Career coaching and resume building workshops
+
+Our professional insertion programs help students connect with the business community, gain practical experience, and develop a professional network.
+
+---
+
+# Community and Collaboration
+
+Creating a supportive and collaborative environment:
+
+* Regular meetups and networking events
+* Collaboration opportunities with other student clubs and organizations
+* Access to resources and tools for startup development
+* Feedback and support from experienced entrepreneurs and industry experts
+
+Our community is built on the principles of collaboration, mutual support, and knowledge sharing.
+
+---
+
 # Conclusion
 
-SlidesAI is the ultimate solution for creating high-quality presentations quickly and efficiently.
-Join the revolution and transform the way you present!
+Join Esinovation and:
 
----
-# Q&A
+* Develop valuable skills and knowledge
+* Connect with a community of like-minded individuals
+* Gain practical experience and build your professional network
+* Turn your ideas into reality and become a successful entrepreneur
 
-Do you have any questions about SlidesAI?
+Don't miss out on this opportunity to shape your future. Join Esinovation today!
