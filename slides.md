@@ -1,94 +1,122 @@
 ---
-theme: bricks
+theme: shibainu
 ---
 
-# Esinovation: Entrepreneurship and Innovation at the Heart of University Life
+# Python Basics
 
-Creating the next generation of entrepreneurs and innovators
-
----
-
-# Introduction
-
-Esinovation is a university club dedicated to fostering entrepreneurship and equipping students with valuable skills for the professional world. Our mission is to empower students to turn their ideas into reality and become active players in the business ecosystem.
-
-Our objectives:
-
-* Provide a platform for students to explore entrepreneurship and innovation
-* Develop skills and knowledge essential for success in the professional world
-* Foster a collaborative community that supports and encourages students
+Welcome to the world of Python!
 
 ---
 
-# Entrepreneurship Education
+# What is Python?
 
-Programs that help students develop entrepreneurial skills:
-
-* Business Model Canvas workshops
-* Lean Startup methodology training
-* Pitching and idea validation sessions
-* Mentorship programs with experienced entrepreneurs and industry experts
-
-Our entrepreneurship education programs are designed to help students develop a entrepreneurial mindset, validate their ideas, and create a solid business plan.
+Python is a high-level, interpreted programming language that is easy to learn and understand.
 
 ---
 
-# Entrepreneurship Education (continued)
+# Variables and Data Types
 
-* Case studies and business plan competitions
-* Guest lectures from successful entrepreneurs and industry experts
-* Access to resources and tools for startup development
+In Python, a variable is a name given to a value. You can think of it as a labeled box where you can store a value.
 
-By participating in our programs, students gain a solid understanding of entrepreneurship and develop the skills and confidence to turn their ideas into reality.
+### Basic Data Types
 
----
+#### 1. Integers (int)
+Whole numbers, e.g., `1`, `2`, `3`, etc.
 
-# Workshops and Skill Development
+#### 2. Floats (float)
+Decimal numbers, e.g., `3.14`, `-0.5`, etc.
 
-Range of workshops and skill development opportunities:
+#### 3. Strings (str)
+Sequences of characters, e.g., `"hello"`, `'hello'`, etc. Strings can be enclosed in single quotes or double quotes.
 
-* Programming languages: Python, Java, JavaScript
-* Web development: HTML, CSS, React
-* Data analysis and visualization: Excel, Tableau, Power BI
-* Marketing and branding: Digital marketing, Social media, Brand identity
-
-Our workshops and skill development programs are designed to equip students with practical skills that complement their academic education and enhance their employability.
+#### 4. Boolean (bool)
+True or false values, e.g., `True`, `False`
 
 ---
 
-# Professional Insertion
+# Variables and Assignment
 
-Supporting students' transition into the workforce:
+You can assign a value to a variable using the assignment operator (`=`).
 
-* Networking events with industry professionals and entrepreneurs
-* Internship and job placement opportunities
-* Mentorship programs with experienced professionals
-* Career coaching and resume building workshops
-
-Our professional insertion programs help students connect with the business community, gain practical experience, and develop a professional network.
+### Example
+```
+x = 5  # assign 5 to x
+y = "hello"  # assign "hello" to y
+```
 
 ---
 
-# Community and Collaboration
+# Lists
 
-Creating a supportive and collaborative environment:
+A list is a collection of items that can be of any data type, including strings, integers, floats, and other lists.
 
-* Regular meetups and networking events
-* Collaboration opportunities with other student clubs and organizations
-* Access to resources and tools for startup development
-* Feedback and support from experienced entrepreneurs and industry experts
+### Creating a List
+```
+fruits = ["apple", "banana", "cherry"]
+```
 
-Our community is built on the principles of collaboration, mutual support, and knowledge sharing.
+### Indexing and Slicing
+```
+print(fruits[0])  # output: "apple"
+print(fruits[1:3])  # output: ["banana", "cherry"]
+```
+
+---
+
+# Dictionaries
+
+A dictionary is a collection of key-value pairs.
+
+### Creating a Dictionary
+```
+person = {"name": "John", "age": 30, "city": "New York"}
+```
+
+### Accessing Dictionary Values
+```
+print(person["name"])  # output: "John"
+```
+
+---
+
+# Loops
+
+Loops allow you to execute a block of code repeatedly.
+
+### For Loop
+```
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+```
+
+### While Loop
+```
+i = 0
+while i < 5:
+    print(i)
+    i += 1
+```
+
+---
+
+# Functions
+
+Functions are blocks of code that can be executed multiple times from different parts of your program.
+
+### Defining a Function
+```
+def greet(name):
+    print("Hello, " + name + "!")
+```
+
+### Calling a Function
+```
+greet("John")  # output: "Hello, John!"
+```
 
 ---
 
 # Conclusion
 
-Join Esinovation and:
-
-* Develop valuable skills and knowledge
-* Connect with a community of like-minded individuals
-* Gain practical experience and build your professional network
-* Turn your ideas into reality and become a successful entrepreneur
-
-Don't miss out on this opportunity to shape your future. Join Esinovation today!
+That's a wrap! You've learned the basics of Python, including variables, data types, lists, dictionaries, loops, and functions. Practice makes perfect, so start coding!
