@@ -1,122 +1,166 @@
 ---
-theme: shibainu
+theme: apple-basic
 ---
 
-# Python Basics
+# Cloud Computing Foundations
 
-Welcome to the world of Python!
+**Slide 1: Introduction**
 
----
+Welcome to Cloud Computing Foundations!
 
-# What is Python?
-
-Python is a high-level, interpreted programming language that is easy to learn and understand.
-
----
-
-# Variables and Data Types
-
-In Python, a variable is a name given to a value. You can think of it as a labeled box where you can store a value.
-
-### Basic Data Types
-
-#### 1. Integers (int)
-Whole numbers, e.g., `1`, `2`, `3`, etc.
-
-#### 2. Floats (float)
-Decimal numbers, e.g., `3.14`, `-0.5`, etc.
-
-#### 3. Strings (str)
-Sequences of characters, e.g., `"hello"`, `'hello'`, etc. Strings can be enclosed in single quotes or double quotes.
-
-#### 4. Boolean (bool)
-True or false values, e.g., `True`, `False`
+Cloud computing is a model of delivering computing services over the internet. In this presentation, we will explore the foundations of cloud, its history, usage, and some basics.
 
 ---
 
-# Variables and Assignment
+# Page 2: History of Cloud Computing
 
-You can assign a value to a variable using the assignment operator (`=`).
+**Early Beginnings**
 
-### Example
-```
-x = 5  # assign 5 to x
-y = "hello"  # assign "hello" to y
-```
-
----
-
-# Lists
-
-A list is a collection of items that can be of any data type, including strings, integers, floats, and other lists.
-
-### Creating a List
-```
-fruits = ["apple", "banana", "cherry"]
-```
-
-### Indexing and Slicing
-```
-print(fruits[0])  # output: "apple"
-print(fruits[1:3])  # output: ["banana", "cherry"]
-```
+* 1960s: Concept of "time-sharing" introduced
+* 1970s: Virtualization and distributed computing emerged
+* 1990s: Internet and web-based applications rose
+* 2000s: Cloud computing as we know it today
 
 ---
 
-# Dictionaries
+# Page 3: Definition and Characteristics
 
-A dictionary is a collection of key-value pairs.
+**What is Cloud Computing?**
 
-### Creating a Dictionary
-```
-person = {"name": "John", "age": 30, "city": "New York"}
-```
+* On-demand self-service
+* Broad network access
+* Resource pooling
+* Rapid elasticity
+* Measured service
 
-### Accessing Dictionary Values
-```
-print(person["name"])  # output: "John"
-```
+**Key Characteristics**
 
----
-
-# Loops
-
-Loops allow you to execute a block of code repeatedly.
-
-### For Loop
-```
-fruits = ["apple", "banana", "cherry"]
-for fruit in fruits:
-    print(fruit)
-```
-
-### While Loop
-```
-i = 0
-while i < 5:
-    print(i)
-    i += 1
-```
+* Scalability
+* Flexibility
+* Cost-effectiveness
+* Reliability
+* Security
 
 ---
 
-# Functions
+# Page 4: Service Models
 
-Functions are blocks of code that can be executed multiple times from different parts of your program.
+**IaaS - Infrastructure as a Service**
 
-### Defining a Function
-```
-def greet(name):
-    print("Hello, " + name + "!")
-```
+* Provide virtualized computing resources
+* Examples: AWS, Azure, Google Cloud
 
-### Calling a Function
-```
-greet("John")  # output: "Hello, John!"
-```
+**PaaS - Platform as a Service**
+
+* Provide a complete platform for development
+* Examples: Heroku, Google App Engine
+
+**SaaS - Software as a Service**
+
+* Provide software applications over the internet
+* Examples: Microsoft Office 365, Salesforce
 
 ---
 
-# Conclusion
+# Page 5: Deployment Models
 
-That's a wrap! You've learned the basics of Python, including variables, data types, lists, dictionaries, loops, and functions. Practice makes perfect, so start coding!
+**Public Cloud**
+
+* Open to the general public
+* Examples: AWS, Azure, Google Cloud
+
+**Private Cloud**
+
+* Restricted to a single organization
+* Examples: VMware, OpenStack
+
+**Hybrid Cloud**
+
+* Combination of public and private clouds
+* Examples: Microsoft Azure Stack, AWS Outposts
+
+---
+
+# Page 6: Benefits of Cloud Computing
+
+**Scalability and Flexibility**
+
+* Scale up or down as needed
+* Rapid deployment and provisioning
+
+**Cost-Effectiveness**
+
+* Pay-as-you-go pricing model
+* Reduced capital and operational expenses
+
+**Reliability and Security**
+
+* Built-in redundancy and backup
+* Advanced security features and compliance
+
+---
+
+# Page 7: Cloud Computing Usage
+
+**Top Industries Using Cloud**
+
+* IT and Technology
+* Finance and Banking
+* Healthcare
+* Retail and E-commerce
+* Education
+
+**Use Cases**
+
+* Storage and Backup
+* Application Development and Deployment
+* Disaster Recovery and Business Continuity
+* Big Data and Analytics
+* Artificial Intelligence and Machine Learning
+
+---
+
+# Page 8: Cloud Computing Basics
+
+**Key Terms**
+
+* VM - Virtual Machine
+* Container - Lightweight and portable application packaging
+* Orchestration - Automating deployment and management of applications
+* APIs - Application Programming Interfaces
+
+**Cloud Providers**
+
+* AWS - Amazon Web Services
+* Azure - Microsoft Azure
+* GCP - Google Cloud Platform
+* IBM Cloud
+* Oracle Cloud
+
+---
+
+# Page 9: Conclusion
+
+**Summary**
+
+* Cloud computing is a model of delivering computing services over the internet
+* History dates back to the 1960s
+* Service models: IaaS, PaaS, SaaS
+* Deployment models: Public, Private, Hybrid
+* Benefits: Scalability, Cost-effectiveness, Reliability, Security
+* Usage: Top industries and use cases
+* Basics: Key terms and cloud providers
+
+**Call to Action**
+
+* Explore cloud computing further
+* Consider cloud certifications
+* Start building your cloud skills today!
+
+---
+
+# Page 10: Q&A
+
+**Your Questions?**
+
+Please feel free to ask any questions you have about cloud computing foundations!
