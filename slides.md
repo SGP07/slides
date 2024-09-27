@@ -1,166 +1,77 @@
 ---
-theme: apple-basic
+theme: shibainu
 ---
 
-# Cloud Computing Foundations
+# Cloning Minions: The Ultimate Dream?
 
-**Slide 1: Introduction**
-
-Welcome to Cloud Computing Foundations!
-
-Cloud computing is a model of delivering computing services over the internet. In this presentation, we will explore the foundations of cloud, its history, usage, and some basics.
+**Gru's Secret Laboratory**
 
 ---
 
-# Page 2: History of Cloud Computing
+# Agenda
 
-**Early Beginnings**
-
-* 1960s: Concept of "time-sharing" introduced
-* 1970s: Virtualization and distributed computing emerged
-* 1990s: Internet and web-based applications rose
-* 2000s: Cloud computing as we know it today
-
----
-
-# Page 3: Definition and Characteristics
-
-**What is Cloud Computing?**
-
-* On-demand self-service
-* Broad network access
-* Resource pooling
-* Rapid elasticity
-* Measured service
-
-**Key Characteristics**
-
-* Scalability
-* Flexibility
-* Cost-effectiveness
-* Reliability
-* Security
+* Introduction to Minion Cloning
+* The Science Behind Cloning
+* Cloning Process
+* Ethical Considerations
+* Conclusion and Future Possibilities
+* Q&A
 
 ---
 
-# Page 4: Service Models
+# Introduction to Minion Cloning
 
-**IaaS - Infrastructure as a Service**
-
-* Provide virtualized computing resources
-* Examples: AWS, Azure, Google Cloud
-
-**PaaS - Platform as a Service**
-
-* Provide a complete platform for development
-* Examples: Heroku, Google App Engine
-
-**SaaS - Software as a Service**
-
-* Provide software applications over the internet
-* Examples: Microsoft Office 365, Salesforce
+Imagine an army of adorable, banana-loving, gibberish-speaking Minions at your beck and call.
+Why clone Minions? For research, entertainment, or maybe just to create the ultimate Minion Butler?
 
 ---
 
-# Page 5: Deployment Models
+# The Science Behind Cloning
 
-**Public Cloud**
+**Somatic Cell Nuclear Transfer (SCNT)**
 
-* Open to the general public
-* Examples: AWS, Azure, Google Cloud
-
-**Private Cloud**
-
-* Restricted to a single organization
-* Examples: VMware, OpenStack
-
-**Hybrid Cloud**
-
-* Combination of public and private clouds
-* Examples: Microsoft Azure Stack, AWS Outposts
+* Take a Minion cell nucleus and insert it into an egg cell
+* Stimulate cell division and growth
+* Voilà! A genetically identical Minion clone
 
 ---
 
-# Page 6: Benefits of Cloud Computing
+# Cloning Process
 
-**Scalability and Flexibility**
+**Step 1: Cell Collection**
 
-* Scale up or down as needed
-* Rapid deployment and provisioning
-
-**Cost-Effectiveness**
-
-* Pay-as-you-go pricing model
-* Reduced capital and operational expenses
-
-**Reliability and Security**
-
-* Built-in redundancy and backup
-* Advanced security features and compliance
+* Collect Minion cells from a willing donor (or an unwilling one, muahahaha)
+* Isolate and preserve the cells for cloning
 
 ---
 
-# Page 7: Cloud Computing Usage
+# Cloning Process (continued)
 
-**Top Industries Using Cloud**
+**Step 2: Cloning**
 
-* IT and Technology
-* Finance and Banking
-* Healthcare
-* Retail and E-commerce
-* Education
-
-**Use Cases**
-
-* Storage and Backup
-* Application Development and Deployment
-* Disaster Recovery and Business Continuity
-* Big Data and Analytics
-* Artificial Intelligence and Machine Learning
+* Transfer the cell nucleus into an egg cell
+* Apply a gentle electric shock to stimulate cell division
+* Wait for the clone to develop...
 
 ---
 
-# Page 8: Cloud Computing Basics
+# Ethical Considerations
 
-**Key Terms**
-
-* VM - Virtual Machine
-* Container - Lightweight and portable application packaging
-* Orchestration - Automating deployment and management of applications
-* APIs - Application Programming Interfaces
-
-**Cloud Providers**
-
-* AWS - Amazon Web Services
-* Azure - Microsoft Azure
-* GCP - Google Cloud Platform
-* IBM Cloud
-* Oracle Cloud
+* Playing God: is cloning Minions morally justifiable?
+* Responsibility: can we guarantee the well-being of cloned Minions?
+* Consent: would the original Minions agree to being cloned?
 
 ---
 
-# Page 9: Conclusion
+# Conclusion and Future Possibilities
 
-**Summary**
-
-* Cloud computing is a model of delivering computing services over the internet
-* History dates back to the 1960s
-* Service models: IaaS, PaaS, SaaS
-* Deployment models: Public, Private, Hybrid
-* Benefits: Scalability, Cost-effectiveness, Reliability, Security
-* Usage: Top industries and use cases
-* Basics: Key terms and cloud providers
-
-**Call to Action**
-
-* Explore cloud computing further
-* Consider cloud certifications
-* Start building your cloud skills today!
+* Cloning Minions: is it a dream come true or a recipe for disaster?
+* The possibilities are endless, but so are the challenges
+* Join us in exploring the wild world of Minion cloning!
 
 ---
 
-# Page 10: Q&A
+# Q&A
 
-**Your Questions?**
-
-Please feel free to ask any questions you have about cloud computing foundations!
+Do you have what it takes to become a Minion Cloning Mastermind?
+Ask your questions, and together, let's unleash a Minion army!
