@@ -1,74 +1,123 @@
 ---
-theme: default
+theme: seriph
 ---
 
-# The Rise of Alex Pereira: The New UFC Middleweight Champion
+# Linear Regression in Machine Learning
 
----
-
-# Page 2
-
-From Brazil to the Top of the UFC
-
-Alex Pereira, the latest sensation in the world of mixed martial arts, has taken the UFC by storm. Born on July 7, 1987, in Sombrio, Brazil, Pereira's journey to the top is a testament to his unwavering dedication and unrelenting passion for the sport.
+Linear regression is a fundamental concept in machine learning, allowing us to model and analyze the relationship between dependent and independent variables.
 
 ---
 
-# Page 3
+# Overview of Linear Regression
 
-Early Life and Background
-
-Growing up in a small town in southern Brazil, Pereira's early life was marked by poverty and hardship. He started training in kickboxing at the age of 12, which eventually led him to the world of MMA. Pereira's amateur career saw him accumulate a record of 40-0, setting the stage for his professional debut.
+Linear regression is a supervised learning algorithm used to predict continuous outcomes based on one or more predictor variables.
 
 ---
 
-# Page 4
+# Key Concepts
 
-Professional Career
-
-Pereira began his professional MMA career in 2015, competing in various regional promotions in Brazil. His impressive record soon caught the attention of the UFC, and he was signed in 2021. Pereira made his UFC debut against Andreas Michailidis, winning via TKO in the second round.
-
----
-
-# Page 5
-
-UFC Record
-
-| Opponent | Event | Method | Round | Date |
-| --- | --- | --- | --- | --- |
-| Andreas Michailidis | UFC 268 | TKO | 2 | November 6, 2021 |
-| Bruno Silva | UFC Fight Night 201 | Decision (unanimous) | 3 | February 12, 2022 |
-| Sean Strickland | UFC 276 | KO/TKO | 1 | July 2, 2022 |
-| Israel Adesanya | UFC 281 | KO/TKO | 5 | November 12, 2022 |
+* **Dependent Variable (Target Variable)**: The variable we want to predict.
+* **Independent Variables (Feature Variables)**: The variables used to make predictions.
 
 ---
 
-# Page 6
+# The Linear Regression Equation
 
-The Rise to Championship Glory
+The linear regression equation takes the form of:
 
-Pereira's impressive UFC record earned him a title shot against Israel Adesanya at UFC 281. In a thrilling fight, Pereira dethroned Adesanya via knockout in the fifth round, capturing the UFC Middleweight Championship.
+y = β₀ + β₁x + ε
 
----
-
-# Page 7
-
-What's Next for Alex Pereira?
-
-As the new UFC Middleweight Champion, Pereira looks to defend his title against a formidable list of contenders. His next challenge is uncertain, but one thing is clear: Alex Pereira is here to stay.
-
----
-
-# Page 8
-
-Conclusion
-
-Alex Pereira's remarkable journey from a small town in Brazil to the top of the UFC is an inspiration to millions. His unwavering dedication, unrelenting passion, and unbridled talent have made him a force to be reckoned with in the world of mixed martial arts.
+Where:
+* y is the dependent variable
+* β₀ is the intercept or bias term
+* β₁ is the slope coefficient
+* x is the independent variable
+* ε is the error term
 
 ---
 
-# Page 9
+# How Linear Regression Works
 
-Q&A
+The goal of linear regression is to find the best-fitting line that minimizes the error between predicted and actual values.
 
-Do you have any questions about Alex Pereira's remarkable journey or his reign as the new UFC Middleweight Champion?
+---
+
+# Model Training Process
+
+### Cost Function
+
+The cost function, also known as the loss function, measures the difference between predicted and actual values.
+
+### Gradient Descent
+
+Gradient descent is an optimization algorithm used to minimize the cost function and find the optimal parameters for our model.
+
+---
+
+# Evaluation Metrics
+
+### Root Mean Squared Error (RMSE)
+
+RMSE measures the average distance between predicted and actual values.
+
+### R² Score (Coefficient of Determination)
+
+R² score measures the proportion of the variance in the dependent variable that is predictable from the independent variable(s).
+
+---
+
+# Use Cases and Limitations
+
+### Use Cases
+
+* Predicting continuous outcomes (e.g., stock prices, temperatures)
+* Identifying relationships between variables
+
+### Limitations
+
+* Assumes linearity between variables
+* Sensitive to outliers and missing values
+
+---
+
+# Examples and Visualizations
+
+### Simple Linear Regression Example
+
+Predicting house prices based on the number of bedrooms.
+
+### Multiple Linear Regression Example
+
+Predicting stock prices based on multiple economic indicators.
+
+### Visualization: Scatter Plot with Regression Line
+
+```
+import matplotlib.pyplot as plt
+
+# Sample data
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
+
+# Regression line
+plt.plot(x, y, 'o', label='Data Points')
+plt.plot([0, 6], [0, 10], label='Regression Line')
+
+plt.xlabel('Independent Variable')
+plt.ylabel('Dependent Variable')
+plt.title('Simple Linear Regression Example')
+plt.legend()
+plt.show()
+```
+
+---
+
+# Conclusion
+
+Linear regression is a powerful tool in machine learning, allowing us to model and analyze complex relationships between variables. By understanding the key concepts, equation, and evaluation metrics, we can effectively train and deploy linear regression models to make accurate predictions.
+
+---
+
+# Q&A
+
+Do you have any questions about linear regression or its applications?
