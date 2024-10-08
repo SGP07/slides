@@ -1,159 +1,125 @@
 ---
-theme: apple-basic
+theme: default
 ---
 
-# NoSQL Databases and Knowledge Graphs: A Deep Dive into Neo4j
+# Quantum Computing
 
----
-
-# Introduction to NoSQL Databases
-
-Evolution of databases: from traditional relational databases to NoSQL databases
-
-**Why NoSQL?**
-
-* Scalability and flexibility
-* Handling large amounts of unstructured or semi-structured data
-* Support for variety of data models
-
-**Types of NoSQL databases**
-
-* Key-Value stores (e.g., Riak, Redis)
-* Document-oriented databases (e.g., MongoDB, CouchDB)
-* Column-family databases (e.g., Cassandra, HBase)
-* Graph databases (e.g., Neo4j, Amazon Neptune)
-
-**When to use NoSQL over SQL?**
-
-* When data is unstructured or schema-less
-* When scalability and high performance are critical
-* When ACID compliance is not a top priority
+Welcome to the fascinating world of Quantum Computing!
 
 ---
 
-# Understanding Knowledge Graphs
+# Introduction to Quantum Computing
 
-**What is a Knowledge Graph?**
+**Classical Computing vs. Quantum Computing**
 
-A knowledge graph represents entities, their properties, and relationships between them
+* Classical computing: bits, 0s and 1s
+* Quantum computing: qubits, 0s, 1s, and **superpositions** of 0s and 1s
 
-**Importance of Knowledge Graphs**
+**Key Concepts:**
 
-* Model complex relationships and dependencies
-* Integrate multiple data sources
-* Answer complex queries and questions
-
-**Use Cases of Knowledge Graphs**
-
-* Recommendation systems
-* Fraud detection and prevention
-* Knowledge management and discovery
-* Natural Language Processing (NLP) and Artificial Intelligence (AI)
+* **Qubits**: quantum bits, the fundamental units of quantum information
+* **Superposition**: qubits can exist in multiple states simultaneously
+* **Entanglement**: qubits can be connected, affecting each other's states
 
 ---
 
-# Neo4j as a Graph Database
+# Quantum Bits (Qubits)
 
-**Introduction to Neo4j**
+**Classical Bits vs. Qubits**
 
-Native graph database with native storage and querying capabilities
+* Classical bits: 0 or 1
+* Qubits: 0, 1, or **both** (superposition)
 
-**Features of Neo4j**
+**Parallel Computation with Qubits**
 
-* Native graph storage for efficient querying
-* ACID compliance for safe and reliable transactions
-* Cypher query language for easy querying
-* Scalable and highly performant
-
-**Benefits of using Neo4j**
-
-* Efficient querying of complex relationships
-* Flexible data model for easy adaptation
-* Robust and reliable performance
+* Qubits enable massive parallelization, exponentially faster computation
 
 ---
 
-# How Neo4j Works
+# Quantum Gates and Circuits
 
-**Data Structure**
+**Quantum Gates**
 
-* Nodes (entities) with properties (attributes)
-* Relationships between nodes with properties (edges)
-* Labels and keys for organizing and querying data
+* **Hadamard Gate (H)**: creates superposition
+* **Pauli-X Gate**: flips qubit state
+* **CNOT Gate**: controlled NOT gate, applies operation based on another qubit
 
-**Querying in Neo4j using Cypher**
+**Quantum Circuits**
 
-```cypher
-MATCH (n:Person {name: 'John'}) RETURN n
-```
-
-**Indexing and Optimization**
-
-* Indexing for faster querying
-* Query optimization for efficient performance
+* Combine quantum gates to perform complex computations
 
 ---
 
-# Use Cases of Neo4j and Knowledge Graphs
+# Quantum Algorithms
 
-**Real-World Applications**
+**Shor's Algorithm**
 
-* Recommendation systems
-* Fraud detection and prevention
-* Knowledge management and discovery
-* Social network analysis
+* Factors large numbers exponentially faster than classical algorithms
+* Breaks certain encryption algorithms
 
-**Case Studies**
+**Grover's Algorithm**
 
-* NASA's use of Neo4j for mission critical applications
-* Walmart's use of Neo4j for supply chain management
-* UBS's use of Neo4j for financial risk management
+* Searches unsorted databases exponentially faster than classical algorithms
 
----
+**Solving Problems Faster**
 
-# Comparison with Other NoSQL and Graph Databases
-
-**Neo4j vs. Other NoSQL Databases**
-
-* MongoDB (document-oriented)
-* Cassandra (column-family)
-* Key differences in data model and querying capabilities
-
-**Neo4j vs. Other Graph Databases**
-
-* Amazon Neptune
-* ArangoDB
-* Key differences in features, performance, and scalability
+* Quantum algorithms can solve certain problems exponentially faster than classical ones
 
 ---
 
-# Challenges and Limitations
+# Quantum Hardware
 
-**Common Challenges**
+**Types of Quantum Computers**
 
-* Scaling graph databases
-* Handling large amounts of data
-* Query optimization and performance
+* **Superconducting Qubits**: extremely cold, precise control
+* **Trapped Ions**: individual atoms, precise control
 
-**Trade-Offs**
+**Challenges in Building Scalable Hardware**
 
-* Balancing scalability and performance
-* Choosing between ACID compliance and high availability
+* Error correction, noise reduction, and scaling up
+
+---
+
+# Applications of Quantum Computing
+
+**Potential Real-World Use Cases**
+
+* **Cryptography**: breaking and making unbreakable codes
+* **Drug Discovery**: simulating complex molecular interactions
+* **Optimization Problems**: solving complex problems exponentially faster
+
+**Industries Most Likely to Benefit**
+
+* Finance, Healthcare, Logistics, and Materials Science
+
+---
+
+# Current State and Future of Quantum Computing
+
+**Leading Companies**
+
+* **IBM**: Quantum Experience, 53-qubit quantum computer
+* **Google**: Bristlecone, 72-qubit quantum computer
+* **Microsoft**: Quantum Development Kit, quantum programming language
+
+**Challenges and Future Prospects**
+
+* Error correction, scaling up, and commercialization
 
 ---
 
 # Conclusion
 
-**Summary**
+**Summary of Quantum Computing's Potential Impact**
 
-Neo4j is a powerful tool for working with knowledge graphs and NoSQL databases
+* Faster computation, breakthroughs in various fields, and new possibilities
 
-**Final Thoughts**
+**Getting Started in Quantum Computing**
 
-The future of graph databases and NoSQL is bright, with increasing adoption and innovation in the field.
+* Learn the basics, explore online resources, and join the community!
 
 ---
 
 # Q&A
 
-Thank you for your attention! Do you have any questions about NoSQL databases, knowledge graphs, and Neo4j?
+Your questions, answered!
