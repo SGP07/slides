@@ -1,125 +1,105 @@
 ---
-theme: default
+theme: seriph
 ---
 
-# Quantum Computing
+# Family Law
 
-Welcome to the fascinating world of Quantum Computing!
-
----
-
-# Introduction to Quantum Computing
-
-**Classical Computing vs. Quantum Computing**
-
-* Classical computing: bits, 0s and 1s
-* Quantum computing: qubits, 0s, 1s, and **superpositions** of 0s and 1s
-
-**Key Concepts:**
-
-* **Qubits**: quantum bits, the fundamental units of quantum information
-* **Superposition**: qubits can exist in multiple states simultaneously
-* **Entanglement**: qubits can be connected, affecting each other's states
+Family is the foundation of society, and family law governs the relationships within it.
 
 ---
 
-# Quantum Bits (Qubits)
+# Agenda
 
-**Classical Bits vs. Qubits**
-
-* Classical bits: 0 or 1
-* Qubits: 0, 1, or **both** (superposition)
-
-**Parallel Computation with Qubits**
-
-* Qubits enable massive parallelization, exponentially faster computation
+* Rights of the Husband
+* Duties of the Husband
+* Rights of the Spouse
+* Duties of the Spouse
+* Divorce
 
 ---
 
-# Quantum Gates and Circuits
+# Rights of the Husband
 
-**Quantum Gates**
-
-* **Hadamard Gate (H)**: creates superposition
-* **Pauli-X Gate**: flips qubit state
-* **CNOT Gate**: controlled NOT gate, applies operation based on another qubit
-
-**Quantum Circuits**
-
-* Combine quantum gates to perform complex computations
+* Right to be the head of the family
+* Right to make decisions for the family
+* Right to own and manage property
+* Right to custody of children
 
 ---
 
-# Quantum Algorithms
+# Rights of the Husband (continued)
 
-**Shor's Algorithm**
-
-* Factors large numbers exponentially faster than classical algorithms
-* Breaks certain encryption algorithms
-
-**Grover's Algorithm**
-
-* Searches unsorted databases exponentially faster than classical algorithms
-
-**Solving Problems Faster**
-
-* Quantum algorithms can solve certain problems exponentially faster than classical ones
+* Right to protection and maintenance from the spouse
+* Right to a safe and healthy living environment
+* Right to engage in business and profession
 
 ---
 
-# Quantum Hardware
+# Duties of the Husband
 
-**Types of Quantum Computers**
-
-* **Superconducting Qubits**: extremely cold, precise control
-* **Trapped Ions**: individual atoms, precise control
-
-**Challenges in Building Scalable Hardware**
-
-* Error correction, noise reduction, and scaling up
+* Duty to provide financial support
+* Duty to protect and maintain the family
+* Duty to cooperate in household chores
+* Duty to respect and obey the laws of the land
 
 ---
 
-# Applications of Quantum Computing
+# Duties of the Husband (continued)
 
-**Potential Real-World Use Cases**
-
-* **Cryptography**: breaking and making unbreakable codes
-* **Drug Discovery**: simulating complex molecular interactions
-* **Optimization Problems**: solving complex problems exponentially faster
-
-**Industries Most Likely to Benefit**
-
-* Finance, Healthcare, Logistics, and Materials Science
+* Duty to be faithful and loyal
+* Duty to provide emotional support and care
+* Duty to participate in decision-making
 
 ---
 
-# Current State and Future of Quantum Computing
+# Rights of the Spouse
 
-**Leading Companies**
+* Right to equality and dignity
+* Right to freedom of expression and movement
+* Right to pursue education and career
+* Right to manage and own property
 
-* **IBM**: Quantum Experience, 53-qubit quantum computer
-* **Google**: Bristlecone, 72-qubit quantum computer
-* **Microsoft**: Quantum Development Kit, quantum programming language
+---
 
-**Challenges and Future Prospects**
+# Rights of the Spouse (continued)
 
-* Error correction, scaling up, and commercialization
+* Right to protection from domestic violence
+* Right to maintenance and support
+* Right to custody of children
+
+---
+
+# Duties of the Spouse
+
+* Duty to support and care for the family
+* Duty to cooperate in household chores
+* Duty to respect and obey the laws of the land
+* Duty to be faithful and loyal
+
+---
+
+# Duties of the Spouse (continued)
+
+* Duty to provide emotional support and care
+* Duty to participate in decision-making
+* Duty to respect the husband's authority
+
+---
+
+# Divorce
+
+* Grounds for divorce
+* Procedure for divorce
+* Effects of divorce on the family
 
 ---
 
 # Conclusion
 
-**Summary of Quantum Computing's Potential Impact**
-
-* Faster computation, breakthroughs in various fields, and new possibilities
-
-**Getting Started in Quantum Computing**
-
-* Learn the basics, explore online resources, and join the community!
+Family law plays a vital role in governing the relationships within the family. Both husbands and spouses have rights and duties that must be respected and fulfilled. In cases of conflict, divorce may be an option, but it should be a last resort.
 
 ---
 
 # Q&A
 
-Your questions, answered!
+Do you have any questions about family law and the rights and duties of husbands and spouses?
