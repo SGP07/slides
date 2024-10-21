@@ -2,75 +2,73 @@
 theme: default
 ---
 
-# The Amazing World of Potatoes
+# Carnivorous Animals: The Hunters of the Wild
 
-Hello, and welcome to today's presentation about one of the most fascinating foods on the planet - potatoes! 
-
----
-
-# Purpose and Agenda
-
-Today, we'll be exploring the history, nutritional value, and culinary uses of potatoes. We'll also delve into some fun facts and surprising uses for this incredible tuber.
+A journey into the world of meat-eating creatures
 
 ---
 
-# History of Potatoes
+# Agenda
 
-Potatoes have been a staple food for thousands of years, originating in the Andean region of South America. They were first domesticated around 7,000-10,000 years ago!
-
----
-
-# History of Potatoes (continued)
-
-The Spanish conquest of the Inca Empire led to the introduction of potatoes to Europe in the 16th century. Today, potatoes are grown in over 130 countries and are the 4th largest food crop in the world!
-
----
-
-# Nutritional Value
-
-Potatoes are a nutrient-rich food, high in:
-
-* Fiber
-* Potassium
-* Vitamin C
-* Antioxidants
-
-They're also low in calories and have a low glycemic index, making them a great choice for a healthy diet!
+* Introduction to carnivorous animals
+* Examples of mammals that eat meat
+* Birds of prey that rule the skies
+* Reptiles with a taste for flesh
+* Fish that prey on others
+* Conclusion and final thoughts
 
 ---
 
-# Culinary Uses
+# What is a Carnivore?
 
-From baked and mashed to fried and roasted, potatoes are an incredibly versatile ingredient. They're used in a wide range of dishes, from comfort food to haute cuisine.
-
----
-
-# Fun Facts
-
-* The world's largest potato producer is China!
-* Potatoes can grow in space! (Well, sort of - they've been grown on the International Space Station!)
-* The first potato chip was invented in 1853 by George Crum, a chef in Saratoga Springs, New York!
+A carnivore is an animal that obtains its energy and nutrients by consuming meat, rather than plants.
 
 ---
 
-# Surprising Uses
+# Mammals that Eat Meat
 
-Potatoes can be used in:
+* Lions: The kings of the savannah, feeding on zebras and antelopes.
+* Tigers: Solitary hunters stalking their prey in the forests of Asia.
+* Wolves: Pack animals that chase down deer and elk in the wild.
 
-* Biodegradable plastics
-* Animal feed
-* Cosmetics (yes, really!)
+---
 
-They're even used as a natural remedy for treating burns and other skin irritations!
+# Mammals that Eat Meat (continued)
+
+* Bears: Omnivores that also feed on salmon and other fish.
+* Hyenas: Scavengers that clean up carcasses, but also hunt in packs.
+
+---
+
+# Birds of Prey
+
+* Eagles: Soaring high, scanning for rabbits and rodents.
+* Hawks: Swift and agile, snatching birds from the skies.
+* Owls: Nocturnal hunters, using acute hearing to catch mice.
+
+---
+
+# Reptiles with a Taste for Flesh
+
+* Snakes: Constricting and suffocating their prey before consuming it.
+* Crocodiles: Ambushing and devouring unsuspecting animals that come to drink.
+
+---
+
+# Fish that Prey on Others
+
+* Sharks: Apex predators of the ocean, feeding on fish and squid.
+* Piranhas: Schooling fish that strip flesh from bone in a frenzy.
 
 ---
 
 # Conclusion
 
-In conclusion, potatoes are an incredible food that deserves our appreciation and respect. From their rich history to their amazing nutritional value, culinary uses, and surprising uses, potatoes truly are a wonder food!
+Carnivorous animals play a crucial role in maintaining the balance of ecosystems.
+Their survival is essential for the health of our planet.
 
 ---
 
 # Q&A
 
-Do you have any questions about potatoes? Now's your chance to ask!
+Do you have any questions about carnivorous animals?
