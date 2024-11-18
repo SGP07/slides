@@ -1,8 +1,6 @@
 ---
 title:SlidesAI
 theme: seriph
-highlighter: shiki
-lineNumbers: true
 ---
 
 # SlidesAI
