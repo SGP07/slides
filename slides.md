@@ -1,74 +1,104 @@
 ---
-theme: default
+title:SlidesAI
+theme: seriph
+highlighter: shiki
+lineNumbers: true
 ---
 
-# Carnivorous Animals: The Hunters of the Wild
-
-A journey into the world of meat-eating creatures
-
----
-
-# Agenda
-
-* Introduction to carnivorous animals
-* Examples of mammals that eat meat
-* Birds of prey that rule the skies
-* Reptiles with a taste for flesh
-* Fish that prey on others
-* Conclusion and final thoughts
+# SlidesAI
+### Transforming Prompts into Polished Presentations  
 
 ---
 
-# What is a Carnivore?
-
-A carnivore is an animal that obtains its energy and nutrients by consuming meat, rather than plants.
-
----
-
-# Mammals that Eat Meat
-
-* Lions: The kings of the savannah, feeding on zebras and antelopes.
-* Tigers: Solitary hunters stalking their prey in the forests of Asia.
-* Wolves: Pack animals that chase down deer and elk in the wild.
-
----
-
-# Mammals that Eat Meat (continued)
-
-* Bears: Omnivores that also feed on salmon and other fish.
-* Hyenas: Scavengers that clean up carcasses, but also hunt in packs.
+# 1. Empathize
+### Understanding User Needs
+- **Who are the users?**
+  - Professionals, educators, students, and content creators.
+- **Pain points:**
+  - Limited time to create presentations.
+  - Struggles with designing visually appealing slides.
+  - Accessing up-to-date information for content.
+- **Goals:**
+  - Save time.
+  - Ensure accuracy and aesthetic quality.
 
 ---
 
-# Birds of Prey
+# 2. Define
+### Identifying the Problem
+**Problem Statement:**  
+People need a simple, fast, and reliable way to create visually appealing and content-rich presentations without spending hours on research and design.
 
-* Eagles: Soaring high, scanning for rabbits and rodents.
-* Hawks: Swift and agile, snatching birds from the skies.
-* Owls: Nocturnal hunters, using acute hearing to catch mice.
-
----
-
-# Reptiles with a Taste for Flesh
-
-* Snakes: Constricting and suffocating their prey before consuming it.
-* Crocodiles: Ambushing and devouring unsuspecting animals that come to drink.
+**How Might We:**  
+- Help users turn ideas into presentations quickly?  
+- Provide accurate, up-to-date content in slides?  
+- Automate image sourcing and design?
 
 ---
 
-# Fish that Prey on Others
-
-* Sharks: Apex predators of the ocean, feeding on fish and squid.
-* Piranhas: Schooling fish that strip flesh from bone in a frenzy.
-
----
-
-# Conclusion
-
-Carnivorous animals play a crucial role in maintaining the balance of ecosystems.
-Their survival is essential for the health of our planet.
+# 3. Ideate
+### Generating Solutions
+- **Core Features:**
+  1. Text-to-presentation generation using prompts.
+  2. Research integration for accurate, recent content.
+  3. Automated image generation and sourcing.  
+- **Additional Ideas:**
+  - User customization for slide themes and layouts.
+  - AI recommendations for structure and flow.
 
 ---
 
-# Q&A
+# 4. Prototype
+### Building SlidesAI
+- **Key Functionalities in the Prototype:**
+  1. Input prompt box for user ideas.
+  2. Internet-based research engine.
+  3. AI-generated or sourced visuals for each slide.
+  4. Preview and customization options.
+- **Example Flow:**  
+  1. User enters a topic prompt.  
+  2. App generates researched content and designs slides.  
+  3. User previews and edits as needed.
 
-Do you have any questions about carnivorous animals?
+---
+
+# 5. Test
+### Feedback from Real Users
+- **Testing Goals:**
+  - Is the app intuitive?  
+  - Does it save users time?  
+  - Are the presentations engaging and accurate?  
+- **Initial Feedback:**
+  1. Users appreciate time savings.
+  2. Requests for more customization options.
+  3. Some concerns about AI image relevancy.
+
+---
+
+# Iteration & Implementation
+### Improving SlidesAI
+- **Enhancements Based on Feedback:**
+  1. Add more design templates and layouts.  
+  2. Improve AI’s ability to understand nuanced prompts.  
+  3. Refine the image-generation process for relevance.  
+- **Launch Plan:**
+  - Beta testing with diverse user groups.
+  - Continuous updates based on usage data.
+
+---
+
+# SlidesAI’s Vision
+### Creating Impact
+- Democratizing presentation creation.  
+- Empowering users to communicate ideas effectively.  
+- Saving hours of work through AI innovation.
+
+**Next Steps:**  
+- Expand features.  
+- Scale to broader audiences.
+
+---
+
+# Thank You!
+### Questions or Feedback?
+Let's collaborate and improve SlidesAI together!
