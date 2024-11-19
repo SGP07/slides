@@ -1,5 +1,5 @@
 ---
-title:SlidesAI
+title: SlidesAI
 theme: seriph
 ---
 
